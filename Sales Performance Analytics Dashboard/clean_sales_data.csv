@@ -1,0 +1,1001 @@
+Sale_ID,Date,Sales_Rep,Region,Product,Customer_Type,Units_Sold,Deal_Status,Revenue,Target,Won_Revenue,Variance,Achievement_%,Month,Month_Number,Quarter,Year
+1,01-01-25,Bilal Hussain,North,Penetration Testing,Enterprise,4,Won,28811.02,33804.14,28811.02,-4993.12,85.23,January,1,2025Q1,2025
+2,01-01-25,Ayesha Noor,East,Penetration Testing,SMB,1,Won,7088.87,8063.7,7088.87,-974.83,87.91,January,1,2025Q1,2025
+3,01-01-25,Hira Shah,West,Penetration Testing,Startup,1,Won,6962.25,6780.69,6962.25,181.56,102.68,January,1,2025Q1,2025
+4,02-01-25,Hamza Sheikh,West,Penetration Testing,Enterprise,5,Won,42688.35,46083.66,42688.35,-3395.31,92.63,January,1,2025Q1,2025
+5,02-01-25,Bilal Hussain,East,Cloud Security,SMB,4,Won,45145.7,46863.34,45145.7,-1717.64,96.33,January,1,2025Q1,2025
+6,02-01-25,Mariam Khan,West,Managed Security Services,Startup,1,Won,11749.93,12772.1,11749.93,-1022.17,92,January,1,2025Q1,2025
+7,03-01-25,Usman Malik,West,Security Audit,Enterprise,1,Won,5314.45,5787.09,5314.45,-472.64,91.83,January,1,2025Q1,2025
+8,03-01-25,Bilal Hussain,West,Incident Response,SMB,4,Won,60223.07,64442.11,60223.07,-4219.04,93.45,January,1,2025Q1,2025
+9,03-01-25,Hira Shah,West,Security Audit,Enterprise,3,Won,17183.69,16206.55,17183.69,977.14,106.03,January,1,2025Q1,2025
+10,04-01-25,Hamza Sheikh,West,Security Audit,SMB,1,Won,5774.68,4987.32,5774.68,787.36,115.79,January,1,2025Q1,2025
+11,04-01-25,Ayesha Noor,North,Managed Security Services,SMB,2,Won,24873.58,25108.59,24873.58,-235.01,99.06,January,1,2025Q1,2025
+12,05-01-25,Hira Shah,West,Managed Security Services,SMB,4,Won,51149.54,59427.63,51149.54,-8278.09,86.07,January,1,2025Q1,2025
+13,05-01-25,Hira Shah,North,Managed Security Services,SMB,1,Won,10598.17,11120.91,10598.17,-522.74,95.3,January,1,2025Q1,2025
+14,05-01-25,Usman Malik,West,Penetration Testing,Enterprise,5,Won,34427.08,39292.9,34427.08,-4865.82,87.62,January,1,2025Q1,2025
+15,06-01-25,Fatima Ahmed,East,Cloud Security,Startup,2,Lost,22965.98,27491.85,0,-4525.87,83.54,January,1,2025Q1,2025
+16,06-01-25,Hamza Sheikh,South,Penetration Testing,SMB,1,Lost,7358.55,6676.16,0,682.39,110.22,January,1,2025Q1,2025
+17,06-01-25,Sara Ali,North,Cloud Security,Enterprise,2,Won,17322.98,18918.81,17322.98,-1595.83,91.56,January,1,2025Q1,2025
+18,07-01-25,Hira Shah,West,Cloud Security,SMB,2,Won,18139.25,19699.28,18139.25,-1560.03,92.08,January,1,2025Q1,2025
+19,07-01-25,Fatima Ahmed,East,Security Audit,SMB,3,Won,15510.37,18503.63,15510.37,-2993.26,83.82,January,1,2025Q1,2025
+20,07-01-25,Sara Ali,South,Security Audit,Enterprise,2,Won,11610.52,13874.11,11610.52,-2263.59,83.68,January,1,2025Q1,2025
+21,08-01-25,Hamza Sheikh,North,Cloud Security,Startup,3,Lost,32721.62,35677.61,0,-2955.99,91.71,January,1,2025Q1,2025
+22,08-01-25,Ahmed Khan,South,Cloud Security,Startup,4,Won,38094.93,35628.86,38094.93,2466.07,106.92,January,1,2025Q1,2025
+23,09-01-25,Mariam Khan,East,Penetration Testing,Enterprise,3,Won,23598.12,26653.95,23598.12,-3055.83,88.54,January,1,2025Q1,2025
+24,09-01-25,Fatima Ahmed,North,Penetration Testing,Startup,5,Won,42107.04,37368.32,42107.04,4738.72,112.68,January,1,2025Q1,2025
+25,09-01-25,Omar Farooq,South,Security Audit,Enterprise,1,Won,6016.01,6757.45,6016.01,-741.44,89.03,January,1,2025Q1,2025
+26,10-01-25,Ahmed Khan,West,Managed Security Services,Enterprise,4,Won,53204.82,62173.48,53204.82,-8968.66,85.57,January,1,2025Q1,2025
+27,10-01-25,Mariam Khan,North,Cloud Security,Enterprise,4,Won,44392.43,43681.78,44392.43,710.65,101.63,January,1,2025Q1,2025
+28,10-01-25,Usman Malik,South,Penetration Testing,Startup,5,Won,34118.93,36531.9,34118.93,-2412.97,93.39,January,1,2025Q1,2025
+29,11-01-25,Bilal Hussain,East,Security Audit,SMB,3,Won,19501.45,19512.17,19501.45,-10.72,99.95,January,1,2025Q1,2025
+30,11-01-25,Ayesha Noor,East,Penetration Testing,Enterprise,1,Won,7905.76,7931.2,7905.76,-25.44,99.68,January,1,2025Q1,2025
+31,11-01-25,Omar Farooq,North,Cloud Security,SMB,3,Won,34399.56,32976.44,34399.56,1423.12,104.32,January,1,2025Q1,2025
+32,12-01-25,Usman Malik,South,Cloud Security,SMB,2,Won,19899.39,22222.55,19899.39,-2323.16,89.55,January,1,2025Q1,2025
+33,12-01-25,Hamza Sheikh,North,Incident Response,Enterprise,3,Won,51573.1,60735.67,51573.1,-9162.57,84.91,January,1,2025Q1,2025
+34,13-01-25,Usman Malik,North,Managed Security Services,Startup,4,Won,51665.8,60927.56,51665.8,-9261.76,84.8,January,1,2025Q1,2025
+35,13-01-25,Bilal Hussain,South,Incident Response,Startup,1,Won,13868.72,12636.81,13868.72,1231.91,109.75,January,1,2025Q1,2025
+36,13-01-25,Hamza Sheikh,South,Security Audit,SMB,3,Lost,18207.33,21050.59,0,-2843.26,86.49,January,1,2025Q1,2025
+37,14-01-25,Omar Farooq,West,Penetration Testing,Startup,1,Lost,9181.13,10173.62,0,-992.49,90.24,January,1,2025Q1,2025
+38,14-01-25,Bilal Hussain,South,Security Audit,SMB,1,Lost,6643.56,6234.94,0,408.62,106.55,January,1,2025Q1,2025
+39,14-01-25,Sara Ali,East,Cloud Security,Startup,2,Won,17584.2,15360.67,17584.2,2223.53,114.48,January,1,2025Q1,2025
+40,15-01-25,Ayesha Noor,North,Incident Response,SMB,2,Won,31857.35,30066.94,31857.35,1790.41,105.95,January,1,2025Q1,2025
+41,15-01-25,Omar Farooq,North,Incident Response,SMB,4,Won,57220.43,66906.3,57220.43,-9685.87,85.52,January,1,2025Q1,2025
+42,15-01-25,Sara Ali,East,Incident Response,Enterprise,5,Won,63907.1,68483.65,63907.1,-4576.55,93.32,January,1,2025Q1,2025
+43,16-01-25,Mariam Khan,South,Security Audit,Startup,1,Won,5826.27,6422.7,5826.27,-596.43,90.71,January,1,2025Q1,2025
+44,16-01-25,Omar Farooq,East,Cloud Security,SMB,5,Won,46021.32,43260.19,46021.32,2761.13,106.38,January,1,2025Q1,2025
+45,17-01-25,Mariam Khan,East,Penetration Testing,Enterprise,4,Won,35061.14,38629.87,35061.14,-3568.73,90.76,January,1,2025Q1,2025
+46,17-01-25,Hamza Sheikh,West,Penetration Testing,Enterprise,1,Won,7609.59,6543.05,7609.59,1066.54,116.3,January,1,2025Q1,2025
+47,17-01-25,Sara Ali,East,Security Audit,SMB,1,Won,6589.54,6466.73,6589.54,122.81,101.9,January,1,2025Q1,2025
+48,18-01-25,Ayesha Noor,North,Incident Response,SMB,5,Won,63763.45,68186.32,63763.45,-4422.87,93.51,January,1,2025Q1,2025
+49,18-01-25,Bilal Hussain,East,Managed Security Services,SMB,3,Won,33924.45,30570.47,33924.45,3353.98,110.97,January,1,2025Q1,2025
+50,18-01-25,Hira Shah,North,Security Audit,Startup,2,Won,11068.19,12596.17,11068.19,-1527.98,87.87,January,1,2025Q1,2025
+51,19-01-25,Usman Malik,North,Security Audit,Enterprise,3,Lost,16561.26,15439.42,0,1121.84,107.27,January,1,2025Q1,2025
+52,19-01-25,Ahmed Khan,North,Cloud Security,SMB,5,Won,43522.8,46930.57,43522.8,-3407.77,92.74,January,1,2025Q1,2025
+53,19-01-25,Ayesha Noor,South,Penetration Testing,Enterprise,2,Won,14498.2,14379.59,14498.2,118.61,100.82,January,1,2025Q1,2025
+54,20-01-25,Sara Ali,West,Security Audit,Startup,3,Won,18299.97,19372.63,18299.97,-1072.66,94.46,January,1,2025Q1,2025
+55,20-01-25,Hira Shah,North,Security Audit,Startup,2,Won,11248.9,9984.61,11248.9,1264.29,112.66,January,1,2025Q1,2025
+56,21-01-25,Ayesha Noor,North,Incident Response,SMB,1,Won,14628.28,12520.63,14628.28,2107.65,116.83,January,1,2025Q1,2025
+57,21-01-25,Sara Ali,South,Incident Response,SMB,3,Won,43337.7,50633.5,43337.7,-7295.8,85.59,January,1,2025Q1,2025
+58,21-01-25,Fatima Ahmed,North,Managed Security Services,Enterprise,2,Won,26706.52,25220.85,26706.52,1485.67,105.89,January,1,2025Q1,2025
+59,22-01-25,Fatima Ahmed,East,Cloud Security,SMB,2,Won,22431.79,25502.41,22431.79,-3070.62,87.96,January,1,2025Q1,2025
+60,22-01-25,Mariam Khan,East,Managed Security Services,Startup,2,Lost,23949.29,28733.7,0,-4784.41,83.35,January,1,2025Q1,2025
+61,22-01-25,Ayesha Noor,West,Incident Response,SMB,3,Won,42707.11,39461.41,42707.11,3245.7,108.22,January,1,2025Q1,2025
+62,23-01-25,Fatima Ahmed,North,Penetration Testing,Enterprise,4,Won,28225.29,26611.08,28225.29,1614.21,106.07,January,1,2025Q1,2025
+63,23-01-25,Sara Ali,South,Incident Response,SMB,3,Won,51120.94,55312.9,51120.94,-4191.96,92.42,January,1,2025Q1,2025
+64,23-01-25,Mariam Khan,East,Cloud Security,Startup,5,Won,43403.4,51559.2,43403.4,-8155.8,84.18,January,1,2025Q1,2025
+65,24-01-25,Sara Ali,South,Incident Response,Enterprise,3,Won,42268.28,49476.5,42268.28,-7208.22,85.43,January,1,2025Q1,2025
+66,24-01-25,Mariam Khan,South,Cloud Security,Enterprise,2,Won,18788.4,19277.02,18788.4,-488.62,97.47,January,1,2025Q1,2025
+67,25-01-25,Ayesha Noor,East,Cloud Security,SMB,1,Won,9461.2,10674.96,9461.2,-1213.76,88.63,January,1,2025Q1,2025
+68,25-01-25,Hira Shah,South,Cloud Security,Startup,3,Won,26978.58,24213.57,26978.58,2765.01,111.42,January,1,2025Q1,2025
+69,25-01-25,Bilal Hussain,East,Cloud Security,Enterprise,3,Lost,32548.45,38801.12,0,-6252.67,83.89,January,1,2025Q1,2025
+70,26-01-25,Omar Farooq,South,Cloud Security,Enterprise,2,Won,17734.99,21060.72,17734.99,-3325.73,84.21,January,1,2025Q1,2025
+71,26-01-25,Hira Shah,East,Penetration Testing,Enterprise,1,Won,8323.78,7552.21,8323.78,771.57,110.22,January,1,2025Q1,2025
+72,26-01-25,Hamza Sheikh,North,Managed Security Services,Enterprise,1,Lost,10645.85,10164.64,0,481.21,104.73,January,1,2025Q1,2025
+73,27-01-25,Sara Ali,West,Security Audit,SMB,5,Won,26134.82,23130.73,26134.82,3004.09,112.99,January,1,2025Q1,2025
+74,27-01-25,Hamza Sheikh,East,Managed Security Services,SMB,3,Won,40421.84,38202.73,40421.84,2219.11,105.81,January,1,2025Q1,2025
+75,27-01-25,Hira Shah,East,Cloud Security,SMB,1,Lost,9070.39,10300.19,0,-1229.8,88.06,January,1,2025Q1,2025
+76,28-01-25,Mariam Khan,West,Penetration Testing,SMB,1,Lost,8771,8616.72,0,154.28,101.79,January,1,2025Q1,2025
+77,28-01-25,Omar Farooq,East,Incident Response,Enterprise,4,Won,60803.36,53564.05,60803.36,7239.31,113.52,January,1,2025Q1,2025
+78,29-01-25,Omar Farooq,East,Penetration Testing,Startup,4,Won,27947.42,27102.82,27947.42,844.6,103.12,January,1,2025Q1,2025
+79,29-01-25,Ahmed Khan,South,Cloud Security,SMB,1,Won,11366.34,13565.55,11366.34,-2199.21,83.79,January,1,2025Q1,2025
+80,29-01-25,Omar Farooq,West,Penetration Testing,Startup,5,Lost,36963.53,39565.37,0,-2601.84,93.42,January,1,2025Q1,2025
+81,30-01-25,Bilal Hussain,North,Penetration Testing,SMB,1,Won,8863.15,8824.65,8863.15,38.5,100.44,January,1,2025Q1,2025
+82,30-01-25,Omar Farooq,East,Cloud Security,Enterprise,2,Lost,18012.86,16360.87,0,1651.99,110.1,January,1,2025Q1,2025
+83,30-01-25,Hira Shah,West,Penetration Testing,SMB,3,Won,26548.39,31729.62,26548.39,-5181.23,83.67,January,1,2025Q1,2025
+84,31-01-25,Ahmed Khan,South,Security Audit,Enterprise,5,Lost,25619.06,29136.48,0,-3517.42,87.93,January,1,2025Q1,2025
+85,31-01-25,Hira Shah,North,Security Audit,SMB,2,Won,12042.41,11422.43,12042.41,619.98,105.43,January,1,2025Q1,2025
+86,31-01-25,Hira Shah,West,Penetration Testing,Enterprise,5,Won,43233.31,37808.57,43233.31,5424.74,114.35,January,1,2025Q1,2025
+87,01-02-25,Usman Malik,North,Incident Response,Enterprise,2,Lost,33913.16,29498.31,0,4414.85,114.97,February,2,2025Q1,2025
+88,01-02-25,Ahmed Khan,North,Cloud Security,Startup,3,Lost,33682.82,30049.53,0,3633.29,112.09,February,2,2025Q1,2025
+89,02-02-25,Hira Shah,North,Security Audit,Enterprise,3,Lost,19725.97,20776.75,0,-1050.78,94.94,February,2,2025Q1,2025
+90,02-02-25,Usman Malik,East,Incident Response,Startup,4,Won,66987.44,78714.74,66987.44,-11727.3,85.1,February,2,2025Q1,2025
+91,02-02-25,Usman Malik,East,Penetration Testing,Enterprise,2,Won,14556.25,14903.57,14556.25,-347.32,97.67,February,2,2025Q1,2025
+92,03-02-25,Ahmed Khan,South,Incident Response,SMB,4,Won,56115.32,64253.78,56115.32,-8138.46,87.33,February,2,2025Q1,2025
+93,03-02-25,Hamza Sheikh,South,Managed Security Services,SMB,2,Won,22480.57,22616.81,22480.57,-136.24,99.4,February,2,2025Q1,2025
+94,03-02-25,Mariam Khan,West,Security Audit,SMB,4,Lost,23114.79,25380.14,0,-2265.35,91.07,February,2,2025Q1,2025
+95,04-02-25,Bilal Hussain,South,Penetration Testing,Enterprise,3,Won,23231.91,25698.1,23231.91,-2466.19,90.4,February,2,2025Q1,2025
+96,04-02-25,Mariam Khan,North,Cloud Security,Enterprise,5,Lost,50668.33,46153.14,0,4515.19,109.78,February,2,2025Q1,2025
+97,04-02-25,Omar Farooq,North,Penetration Testing,Enterprise,4,Lost,28734.85,28057.44,0,677.41,102.41,February,2,2025Q1,2025
+98,05-02-25,Bilal Hussain,East,Cloud Security,Enterprise,2,Won,21147.48,22692.43,21147.48,-1544.95,93.19,February,2,2025Q1,2025
+99,05-02-25,Omar Farooq,North,Penetration Testing,SMB,2,Won,14404.32,12600.09,14404.32,1804.23,114.32,February,2,2025Q1,2025
+100,06-02-25,Hira Shah,West,Incident Response,Startup,3,Lost,42439.16,41443.5,0,995.66,102.4,February,2,2025Q1,2025
+101,06-02-25,Sara Ali,North,Incident Response,Startup,2,Won,30030.11,31146.62,30030.11,-1116.51,96.42,February,2,2025Q1,2025
+102,06-02-25,Ahmed Khan,North,Incident Response,SMB,1,Won,16333.98,19579.19,16333.98,-3245.21,83.43,February,2,2025Q1,2025
+103,07-02-25,Bilal Hussain,West,Managed Security Services,SMB,5,Won,64310.45,65345,64310.45,-1034.55,98.42,February,2,2025Q1,2025
+104,07-02-25,Bilal Hussain,South,Cloud Security,SMB,4,Won,41746.41,47408.05,41746.41,-5661.64,88.06,February,2,2025Q1,2025
+105,07-02-25,Hira Shah,South,Incident Response,Enterprise,5,Won,67254.9,67337.19,67254.9,-82.29,99.88,February,2,2025Q1,2025
+106,08-02-25,Hamza Sheikh,West,Managed Security Services,Startup,3,Lost,36508.09,41208.02,0,-4699.93,88.59,February,2,2025Q1,2025
+107,08-02-25,Usman Malik,East,Cloud Security,SMB,4,Won,35049.36,37096.07,35049.36,-2046.71,94.48,February,2,2025Q1,2025
+108,08-02-25,Hira Shah,North,Penetration Testing,SMB,4,Lost,30822.69,35763.83,0,-4941.14,86.18,February,2,2025Q1,2025
+109,09-02-25,Fatima Ahmed,West,Managed Security Services,Enterprise,1,Won,11688.66,11616.54,11688.66,72.12,100.62,February,2,2025Q1,2025
+110,09-02-25,Usman Malik,North,Security Audit,SMB,3,Won,15514.98,16469.25,15514.98,-954.27,94.21,February,2,2025Q1,2025
+111,10-02-25,Ahmed Khan,East,Managed Security Services,SMB,2,Lost,22372.71,23950.13,0,-1577.42,93.41,February,2,2025Q1,2025
+112,10-02-25,Usman Malik,North,Managed Security Services,Startup,1,Won,13640.34,13586.92,13640.34,53.42,100.39,February,2,2025Q1,2025
+113,10-02-25,Hamza Sheikh,West,Cloud Security,SMB,1,Lost,11360.9,10230.6,0,1130.3,111.05,February,2,2025Q1,2025
+114,11-02-25,Usman Malik,North,Penetration Testing,Enterprise,5,Won,38227.92,33745.54,38227.92,4482.38,113.28,February,2,2025Q1,2025
+115,11-02-25,Ahmed Khan,South,Security Audit,Startup,5,Won,25887.9,22155.77,25887.9,3732.13,116.84,February,2,2025Q1,2025
+116,11-02-25,Hamza Sheikh,East,Incident Response,Enterprise,5,Won,67779.64,78335.44,67779.64,-10555.8,86.52,February,2,2025Q1,2025
+117,12-02-25,Mariam Khan,East,Incident Response,SMB,1,Won,14514.98,13539.08,14514.98,975.9,107.21,February,2,2025Q1,2025
+118,12-02-25,Bilal Hussain,East,Managed Security Services,Enterprise,2,Won,27224.01,25155.73,27224.01,2068.28,108.22,February,2,2025Q1,2025
+119,12-02-25,Bilal Hussain,West,Cloud Security,SMB,4,Won,35694.39,39535.55,35694.39,-3841.16,90.28,February,2,2025Q1,2025
+120,13-02-25,Omar Farooq,East,Cloud Security,Startup,5,Won,53952.74,51902.84,53952.74,2049.9,103.95,February,2,2025Q1,2025
+121,13-02-25,Mariam Khan,South,Incident Response,Enterprise,2,Won,26478.14,27196.11,26478.14,-717.97,97.36,February,2,2025Q1,2025
+122,14-02-25,Mariam Khan,West,Security Audit,Startup,3,Won,20598.79,18680.61,20598.79,1918.18,110.27,February,2,2025Q1,2025
+123,14-02-25,Usman Malik,South,Penetration Testing,Enterprise,5,Won,38579.4,45751.73,38579.4,-7172.33,84.32,February,2,2025Q1,2025
+124,14-02-25,Bilal Hussain,North,Security Audit,Startup,4,Won,25981.69,29828.37,25981.69,-3846.68,87.1,February,2,2025Q1,2025
+125,15-02-25,Ahmed Khan,North,Penetration Testing,SMB,3,Won,22866.66,26349.86,22866.66,-3483.2,86.78,February,2,2025Q1,2025
+126,15-02-25,Ayesha Noor,North,Incident Response,Startup,3,Won,46723.53,46367.07,46723.53,356.46,100.77,February,2,2025Q1,2025
+127,15-02-25,Ayesha Noor,North,Penetration Testing,Enterprise,4,Won,29043.35,32436.38,29043.35,-3393.03,89.54,February,2,2025Q1,2025
+128,16-02-25,Hamza Sheikh,South,Cloud Security,Startup,5,Lost,44690.32,40237.23,0,4453.09,111.07,February,2,2025Q1,2025
+129,16-02-25,Bilal Hussain,West,Managed Security Services,SMB,1,Won,13577.03,11581.43,13577.03,1995.6,117.23,February,2,2025Q1,2025
+130,17-02-25,Bilal Hussain,West,Managed Security Services,Enterprise,4,Won,54014.12,46289.59,54014.12,7724.53,116.69,February,2,2025Q1,2025
+131,17-02-25,Ayesha Noor,East,Incident Response,Startup,4,Lost,66974.44,70678.84,0,-3704.4,94.76,February,2,2025Q1,2025
+132,17-02-25,Bilal Hussain,South,Cloud Security,Enterprise,4,Won,41505.2,41894.86,41505.2,-389.66,99.07,February,2,2025Q1,2025
+133,18-02-25,Usman Malik,North,Security Audit,Startup,3,Won,19664.65,20280.26,19664.65,-615.61,96.96,February,2,2025Q1,2025
+134,18-02-25,Fatima Ahmed,South,Cloud Security,Enterprise,2,Lost,17414.22,14847.57,0,2566.65,117.29,February,2,2025Q1,2025
+135,18-02-25,Sara Ali,East,Managed Security Services,SMB,1,Won,11405.24,11381.75,11405.24,23.49,100.21,February,2,2025Q1,2025
+136,19-02-25,Mariam Khan,East,Managed Security Services,SMB,5,Won,56646.66,62386.32,56646.66,-5739.66,90.8,February,2,2025Q1,2025
+137,19-02-25,Omar Farooq,South,Cloud Security,Enterprise,5,Lost,52034.68,52291.88,0,-257.2,99.51,February,2,2025Q1,2025
+138,19-02-25,Hamza Sheikh,South,Cloud Security,Enterprise,2,Won,19135.75,21169.43,19135.75,-2033.68,90.39,February,2,2025Q1,2025
+139,20-02-25,Fatima Ahmed,South,Managed Security Services,Enterprise,4,Won,42938.5,39999.64,42938.5,2938.86,107.35,February,2,2025Q1,2025
+140,20-02-25,Ayesha Noor,West,Security Audit,SMB,1,Won,6173.64,7004.61,6173.64,-830.97,88.14,February,2,2025Q1,2025
+141,21-02-25,Mariam Khan,North,Incident Response,Enterprise,5,Won,82073.64,86665.74,82073.64,-4592.1,94.7,February,2,2025Q1,2025
+142,21-02-25,Bilal Hussain,South,Incident Response,SMB,5,Won,72347.78,66832.5,72347.78,5515.28,108.25,February,2,2025Q1,2025
+143,21-02-25,Omar Farooq,South,Cloud Security,Enterprise,4,Won,35587.22,33197.62,35587.22,2389.6,107.2,February,2,2025Q1,2025
+144,22-02-25,Bilal Hussain,South,Incident Response,Enterprise,2,Won,27270.19,29173.94,27270.19,-1903.75,93.47,February,2,2025Q1,2025
+145,22-02-25,Ahmed Khan,East,Managed Security Services,SMB,1,Won,11054.94,12607.93,11054.94,-1552.99,87.68,February,2,2025Q1,2025
+146,22-02-25,Ahmed Khan,East,Managed Security Services,Enterprise,2,Lost,22559.26,22457.06,0,102.2,100.46,February,2,2025Q1,2025
+147,23-02-25,Omar Farooq,West,Cloud Security,Startup,2,Lost,20856.77,19613.81,0,1242.96,106.34,February,2,2025Q1,2025
+148,23-02-25,Omar Farooq,North,Cloud Security,Startup,1,Won,10302.84,11883.85,10302.84,-1581.01,86.7,February,2,2025Q1,2025
+149,23-02-25,Ayesha Noor,West,Cloud Security,SMB,1,Lost,10588.24,11480.23,0,-891.99,92.23,February,2,2025Q1,2025
+150,24-02-25,Omar Farooq,North,Security Audit,SMB,5,Won,28762.52,28958.97,28762.52,-196.45,99.32,February,2,2025Q1,2025
+151,24-02-25,Usman Malik,East,Incident Response,Startup,5,Won,82289.95,83998.71,82289.95,-1708.76,97.97,February,2,2025Q1,2025
+152,25-02-25,Bilal Hussain,East,Cloud Security,Enterprise,1,Won,9112.26,8396.85,9112.26,715.41,108.52,February,2,2025Q1,2025
+153,25-02-25,Fatima Ahmed,East,Penetration Testing,Enterprise,3,Won,23777.09,25426.77,23777.09,-1649.68,93.51,February,2,2025Q1,2025
+154,25-02-25,Hira Shah,West,Penetration Testing,Enterprise,5,Won,43611.26,42545.4,43611.26,1065.86,102.51,February,2,2025Q1,2025
+155,26-02-25,Omar Farooq,South,Managed Security Services,SMB,3,Won,32545.71,39005.25,32545.71,-6459.54,83.44,February,2,2025Q1,2025
+156,26-02-25,Hamza Sheikh,South,Incident Response,Enterprise,1,Won,13244.38,13483.63,13244.38,-239.25,98.23,February,2,2025Q1,2025
+157,26-02-25,Ahmed Khan,East,Cloud Security,SMB,5,Won,55755.26,56873.71,55755.26,-1118.45,98.03,February,2,2025Q1,2025
+158,27-02-25,Usman Malik,South,Penetration Testing,Startup,2,Lost,15246.06,15978.6,0,-732.54,95.42,February,2,2025Q1,2025
+159,27-02-25,Mariam Khan,South,Incident Response,Startup,1,Won,15827.42,18531.77,15827.42,-2704.35,85.41,February,2,2025Q1,2025
+160,27-02-25,Hira Shah,West,Managed Security Services,SMB,4,Won,41165.02,46528.26,41165.02,-5363.24,88.47,February,2,2025Q1,2025
+161,28-02-25,Fatima Ahmed,North,Security Audit,Enterprise,3,Won,19026.25,19176.47,19026.25,-150.22,99.22,February,2,2025Q1,2025
+162,28-02-25,Hira Shah,East,Incident Response,Startup,1,Lost,14172.46,15611.6,0,-1439.14,90.78,February,2,2025Q1,2025
+163,01-03-25,Omar Farooq,East,Incident Response,SMB,1,Won,13000.83,13718.25,13000.83,-717.42,94.77,March,3,2025Q1,2025
+164,01-03-25,Ayesha Noor,West,Security Audit,Enterprise,5,Won,30988.31,31680.23,30988.31,-691.92,97.82,March,3,2025Q1,2025
+165,01-03-25,Ahmed Khan,West,Incident Response,Enterprise,5,Won,69168.09,63448.62,69168.09,5719.47,109.01,March,3,2025Q1,2025
+166,02-03-25,Ahmed Khan,South,Managed Security Services,Startup,5,Won,57962.53,58679.97,57962.53,-717.44,98.78,March,3,2025Q1,2025
+167,02-03-25,Mariam Khan,East,Managed Security Services,SMB,4,Won,41960.36,39276.43,41960.36,2683.93,106.83,March,3,2025Q1,2025
+168,02-03-25,Ayesha Noor,North,Security Audit,Startup,5,Won,26824.47,31389.85,26824.47,-4565.38,85.46,March,3,2025Q1,2025
+169,03-03-25,Bilal Hussain,West,Cloud Security,Startup,1,Won,9393.93,9087.62,9393.93,306.31,103.37,March,3,2025Q1,2025
+170,03-03-25,Sara Ali,North,Penetration Testing,SMB,5,Won,35077.11,41506.48,35077.11,-6429.37,84.51,March,3,2025Q1,2025
+171,03-03-25,Usman Malik,North,Cloud Security,SMB,2,Won,22464.96,23286.49,22464.96,-821.53,96.47,March,3,2025Q1,2025
+172,04-03-25,Ahmed Khan,East,Incident Response,SMB,5,Won,63886.06,68424.56,63886.06,-4538.5,93.37,March,3,2025Q1,2025
+173,04-03-25,Hamza Sheikh,East,Penetration Testing,Enterprise,4,Lost,31845.06,33119.79,0,-1274.73,96.15,March,3,2025Q1,2025
+174,05-03-25,Ahmed Khan,West,Security Audit,SMB,2,Won,10643.69,9529.12,10643.69,1114.57,111.7,March,3,2025Q1,2025
+175,05-03-25,Hira Shah,East,Security Audit,SMB,1,Won,5653.82,5549.44,5653.82,104.38,101.88,March,3,2025Q1,2025
+176,05-03-25,Ahmed Khan,East,Penetration Testing,SMB,1,Won,9022.54,7982.25,9022.54,1040.29,113.03,March,3,2025Q1,2025
+177,06-03-25,Ahmed Khan,East,Managed Security Services,Startup,3,Won,32346.3,34546.95,32346.3,-2200.65,93.63,March,3,2025Q1,2025
+178,06-03-25,Sara Ali,North,Penetration Testing,SMB,2,Won,18236,18352.82,18236,-116.82,99.36,March,3,2025Q1,2025
+179,06-03-25,Sara Ali,West,Incident Response,SMB,3,Won,41028.22,46045.76,41028.22,-5017.54,89.1,March,3,2025Q1,2025
+180,07-03-25,Fatima Ahmed,South,Managed Security Services,SMB,2,Won,25739.28,23864.55,25739.28,1874.73,107.86,March,3,2025Q1,2025
+181,07-03-25,Bilal Hussain,North,Security Audit,SMB,2,Won,12168.04,11043.69,12168.04,1124.35,110.18,March,3,2025Q1,2025
+182,07-03-25,Hamza Sheikh,East,Penetration Testing,SMB,4,Won,35691,35413.19,35691,277.81,100.78,March,3,2025Q1,2025
+183,08-03-25,Ahmed Khan,North,Cloud Security,Enterprise,3,Won,30485.94,35799.79,30485.94,-5313.85,85.16,March,3,2025Q1,2025
+184,08-03-25,Ahmed Khan,East,Cloud Security,SMB,4,Won,40414.71,44401.53,40414.71,-3986.82,91.02,March,3,2025Q1,2025
+185,09-03-25,Usman Malik,East,Incident Response,Enterprise,2,Lost,27259.12,27167.07,0,92.05,100.34,March,3,2025Q1,2025
+186,09-03-25,Sara Ali,North,Cloud Security,Enterprise,1,Won,8998.69,9278.06,8998.69,-279.37,96.99,March,3,2025Q1,2025
+187,09-03-25,Hamza Sheikh,West,Penetration Testing,SMB,2,Won,17999.15,15829.79,17999.15,2169.36,113.7,March,3,2025Q1,2025
+188,10-03-25,Mariam Khan,East,Penetration Testing,SMB,4,Won,30347.25,36252.87,30347.25,-5905.62,83.71,March,3,2025Q1,2025
+189,10-03-25,Fatima Ahmed,West,Cloud Security,Startup,3,Won,28848.74,31250.18,28848.74,-2401.44,92.32,March,3,2025Q1,2025
+190,10-03-25,Bilal Hussain,South,Penetration Testing,SMB,3,Won,25870.73,24574.38,25870.73,1296.35,105.28,March,3,2025Q1,2025
+191,11-03-25,Ayesha Noor,East,Incident Response,SMB,4,Won,57098.82,60241.14,57098.82,-3142.32,94.78,March,3,2025Q1,2025
+192,11-03-25,Bilal Hussain,West,Managed Security Services,SMB,3,Won,40882.27,36316.49,40882.27,4565.78,112.57,March,3,2025Q1,2025
+193,11-03-25,Hira Shah,West,Incident Response,SMB,5,Won,80353.37,95463.25,80353.37,-15109.88,84.17,March,3,2025Q1,2025
+194,12-03-25,Ahmed Khan,South,Incident Response,Enterprise,1,Won,15438.43,14067.11,15438.43,1371.32,109.75,March,3,2025Q1,2025
+195,12-03-25,Fatima Ahmed,West,Penetration Testing,Enterprise,1,Won,8914.15,9598.85,8914.15,-684.7,92.87,March,3,2025Q1,2025
+196,13-03-25,Hira Shah,West,Managed Security Services,Enterprise,1,Won,10378.58,9713.41,10378.58,665.17,106.85,March,3,2025Q1,2025
+197,13-03-25,Hamza Sheikh,South,Penetration Testing,SMB,3,Won,22250.85,24501.45,22250.85,-2250.6,90.81,March,3,2025Q1,2025
+198,13-03-25,Ayesha Noor,East,Security Audit,Enterprise,3,Won,17811.2,19982.16,17811.2,-2170.96,89.14,March,3,2025Q1,2025
+199,14-03-25,Sara Ali,West,Penetration Testing,Enterprise,2,Lost,14689.5,15948.34,0,-1258.84,92.11,March,3,2025Q1,2025
+200,14-03-25,Fatima Ahmed,West,Penetration Testing,Enterprise,2,Won,17170.74,18288.12,17170.74,-1117.38,93.89,March,3,2025Q1,2025
+201,14-03-25,Fatima Ahmed,West,Penetration Testing,Startup,1,Won,9006.1,10468.37,9006.1,-1462.27,86.03,March,3,2025Q1,2025
+202,15-03-25,Ahmed Khan,North,Managed Security Services,Enterprise,5,Won,58627.86,51447.08,58627.86,7180.78,113.96,March,3,2025Q1,2025
+203,15-03-25,Omar Farooq,South,Penetration Testing,SMB,2,Won,15242.24,14721.26,15242.24,520.98,103.54,March,3,2025Q1,2025
+204,15-03-25,Fatima Ahmed,North,Managed Security Services,Enterprise,2,Lost,27323.17,25599.09,0,1724.08,106.73,March,3,2025Q1,2025
+205,16-03-25,Usman Malik,South,Cloud Security,SMB,3,Won,29503.67,35280.63,29503.67,-5776.96,83.63,March,3,2025Q1,2025
+206,16-03-25,Ayesha Noor,East,Security Audit,Enterprise,5,Won,29901.44,29491.38,29901.44,410.06,101.39,March,3,2025Q1,2025
+207,17-03-25,Ayesha Noor,East,Managed Security Services,Enterprise,1,Lost,11465.94,12686.08,0,-1220.14,90.38,March,3,2025Q1,2025
+208,17-03-25,Usman Malik,West,Cloud Security,SMB,2,Lost,22457.29,24470.67,0,-2013.38,91.77,March,3,2025Q1,2025
+209,17-03-25,Mariam Khan,South,Managed Security Services,Enterprise,5,Won,61241.2,56600.86,61241.2,4640.34,108.2,March,3,2025Q1,2025
+210,18-03-25,Usman Malik,East,Managed Security Services,Enterprise,5,Won,64719.14,60424.97,64719.14,4294.17,107.11,March,3,2025Q1,2025
+211,18-03-25,Usman Malik,South,Security Audit,Enterprise,1,Won,6561.25,6223.01,6561.25,338.24,105.44,March,3,2025Q1,2025
+212,18-03-25,Ayesha Noor,East,Incident Response,Enterprise,5,Won,71441.6,71005.42,71441.6,436.18,100.61,March,3,2025Q1,2025
+213,19-03-25,Bilal Hussain,North,Incident Response,Enterprise,5,Won,73508.12,68510.58,73508.12,4997.54,107.29,March,3,2025Q1,2025
+214,19-03-25,Ayesha Noor,East,Managed Security Services,Enterprise,5,Won,66272.49,56787.44,66272.49,9485.05,116.7,March,3,2025Q1,2025
+215,19-03-25,Omar Farooq,North,Penetration Testing,Startup,2,Won,15343.63,17764.66,15343.63,-2421.03,86.37,March,3,2025Q1,2025
+216,20-03-25,Ahmed Khan,East,Cloud Security,SMB,1,Won,10881.81,12927.19,10881.81,-2045.38,84.18,March,3,2025Q1,2025
+217,20-03-25,Hira Shah,West,Penetration Testing,SMB,5,Won,45291.91,43912.75,45291.91,1379.16,103.14,March,3,2025Q1,2025
+218,21-03-25,Bilal Hussain,North,Penetration Testing,Enterprise,5,Won,41478.52,40171.01,41478.52,1307.51,103.25,March,3,2025Q1,2025
+219,21-03-25,Sara Ali,East,Managed Security Services,Startup,2,Won,25739.72,21942.65,25739.72,3797.07,117.3,March,3,2025Q1,2025
+220,21-03-25,Hira Shah,West,Managed Security Services,Enterprise,1,Won,13098.35,14252.15,13098.35,-1153.8,91.9,March,3,2025Q1,2025
+221,22-03-25,Ahmed Khan,North,Managed Security Services,Enterprise,3,Won,39726.43,45244.59,39726.43,-5518.16,87.8,March,3,2025Q1,2025
+222,22-03-25,Omar Farooq,West,Managed Security Services,SMB,2,Won,23244.38,20950.46,23244.38,2293.92,110.95,March,3,2025Q1,2025
+223,22-03-25,Omar Farooq,South,Incident Response,Enterprise,1,Won,12980.69,11758.99,12980.69,1221.7,110.39,March,3,2025Q1,2025
+224,23-03-25,Sara Ali,South,Managed Security Services,Enterprise,5,Won,58233.77,65602.04,58233.77,-7368.27,88.77,March,3,2025Q1,2025
+225,23-03-25,Bilal Hussain,North,Incident Response,SMB,1,Won,15781.9,16818.8,15781.9,-1036.9,93.83,March,3,2025Q1,2025
+226,23-03-25,Mariam Khan,East,Incident Response,Startup,1,Won,14776.58,12792.1,14776.58,1984.48,115.51,March,3,2025Q1,2025
+227,24-03-25,Usman Malik,North,Managed Security Services,SMB,1,Won,12896.27,13771.82,12896.27,-875.55,93.64,March,3,2025Q1,2025
+228,24-03-25,Bilal Hussain,West,Security Audit,SMB,3,Won,17227.71,16506.23,17227.71,721.48,104.37,March,3,2025Q1,2025
+229,25-03-25,Mariam Khan,East,Cloud Security,Startup,1,Won,10404.23,10186.3,10404.23,217.93,102.14,March,3,2025Q1,2025
+230,25-03-25,Omar Farooq,South,Penetration Testing,Enterprise,3,Won,21742.22,24338.37,21742.22,-2596.15,89.33,March,3,2025Q1,2025
+231,25-03-25,Ayesha Noor,East,Incident Response,Enterprise,5,Won,80610.81,91398.74,80610.81,-10787.93,88.2,March,3,2025Q1,2025
+232,26-03-25,Ahmed Khan,South,Cloud Security,Enterprise,3,Won,30411.26,30110.94,30411.26,300.32,101,March,3,2025Q1,2025
+233,26-03-25,Sara Ali,East,Security Audit,SMB,5,Won,27336.58,32298.27,27336.58,-4961.69,84.64,March,3,2025Q1,2025
+234,26-03-25,Ahmed Khan,East,Penetration Testing,SMB,5,Won,37502.93,37212.73,37502.93,290.2,100.78,March,3,2025Q1,2025
+235,27-03-25,Hamza Sheikh,East,Penetration Testing,Startup,3,Won,25789.98,28888.46,25789.98,-3098.48,89.27,March,3,2025Q1,2025
+236,27-03-25,Hamza Sheikh,West,Incident Response,SMB,2,Won,29843.41,30421.09,29843.41,-577.68,98.1,March,3,2025Q1,2025
+237,27-03-25,Bilal Hussain,West,Managed Security Services,SMB,4,Won,43910.85,51118.22,43910.85,-7207.37,85.9,March,3,2025Q1,2025
+238,28-03-25,Omar Farooq,North,Security Audit,Enterprise,1,Lost,6841.09,7988.45,0,-1147.36,85.64,March,3,2025Q1,2025
+239,28-03-25,Omar Farooq,North,Incident Response,Startup,4,Won,63872.25,56245.64,63872.25,7626.61,113.56,March,3,2025Q1,2025
+240,29-03-25,Usman Malik,South,Security Audit,Startup,1,Lost,6822.84,8035.75,0,-1212.91,84.91,March,3,2025Q1,2025
+241,29-03-25,Usman Malik,West,Managed Security Services,Startup,1,Won,11737.58,13368.37,11737.58,-1630.79,87.8,March,3,2025Q1,2025
+242,29-03-25,Usman Malik,South,Managed Security Services,Enterprise,5,Won,59551.81,67112.43,59551.81,-7560.62,88.73,March,3,2025Q1,2025
+243,30-03-25,Ayesha Noor,North,Incident Response,SMB,1,Lost,16790.8,15452.89,0,1337.91,108.66,March,3,2025Q1,2025
+244,30-03-25,Hira Shah,South,Managed Security Services,Enterprise,1,Lost,12090.18,13683.57,0,-1593.39,88.36,March,3,2025Q1,2025
+245,30-03-25,Fatima Ahmed,North,Cloud Security,Enterprise,3,Won,31865.51,36567.15,31865.51,-4701.64,87.14,March,3,2025Q1,2025
+246,31-03-25,Hira Shah,West,Penetration Testing,Enterprise,4,Lost,29620.86,28175.44,0,1445.42,105.13,March,3,2025Q1,2025
+247,31-03-25,Ahmed Khan,East,Incident Response,SMB,3,Won,44280.81,52397.09,44280.81,-8116.28,84.51,March,3,2025Q1,2025
+248,31-03-25,Hira Shah,West,Security Audit,SMB,1,Won,5322.21,4616.76,5322.21,705.45,115.28,March,3,2025Q1,2025
+249,01-04-25,Ayesha Noor,South,Cloud Security,Enterprise,5,Won,45589.7,41143.26,45589.7,4446.44,110.81,April,4,2025Q2,2025
+250,01-04-25,Ahmed Khan,South,Incident Response,Enterprise,3,Won,38262.74,39722.59,38262.74,-1459.85,96.32,April,4,2025Q2,2025
+251,02-04-25,Hira Shah,West,Managed Security Services,SMB,3,Won,31024.06,32622.65,31024.06,-1598.59,95.1,April,4,2025Q2,2025
+252,02-04-25,Ayesha Noor,West,Managed Security Services,Enterprise,2,Lost,27436.44,29516.19,0,-2079.75,92.95,April,4,2025Q2,2025
+253,02-04-25,Fatima Ahmed,North,Managed Security Services,Enterprise,1,Won,11072.47,9477.36,11072.47,1595.11,116.83,April,4,2025Q2,2025
+254,03-04-25,Hira Shah,South,Managed Security Services,SMB,5,Lost,62939.59,74654.43,0,-11714.84,84.31,April,4,2025Q2,2025
+255,03-04-25,Ayesha Noor,South,Security Audit,SMB,3,Won,19831.14,17165.95,19831.14,2665.19,115.53,April,4,2025Q2,2025
+256,03-04-25,Usman Malik,West,Cloud Security,Enterprise,3,Won,30455.94,27412.53,30455.94,3043.41,111.1,April,4,2025Q2,2025
+257,04-04-25,Omar Farooq,East,Penetration Testing,Enterprise,5,Won,35837.73,30637.86,35837.73,5199.87,116.97,April,4,2025Q2,2025
+258,04-04-25,Usman Malik,South,Security Audit,Enterprise,1,Lost,6410.61,6720.89,0,-310.28,95.38,April,4,2025Q2,2025
+259,05-04-25,Omar Farooq,East,Security Audit,Startup,2,Won,12360.91,14540.06,12360.91,-2179.15,85.01,April,4,2025Q2,2025
+260,05-04-25,Sara Ali,West,Penetration Testing,SMB,3,Won,25665,27797.29,25665,-2132.29,92.33,April,4,2025Q2,2025
+261,05-04-25,Sara Ali,West,Penetration Testing,SMB,2,Won,17294.78,19680.25,17294.78,-2385.47,87.88,April,4,2025Q2,2025
+262,06-04-25,Sara Ali,North,Managed Security Services,Enterprise,4,Won,54845.91,46873.97,54845.91,7971.94,117.01,April,4,2025Q2,2025
+263,06-04-25,Fatima Ahmed,South,Security Audit,SMB,1,Lost,6132.41,6375.9,0,-243.49,96.18,April,4,2025Q2,2025
+264,06-04-25,Usman Malik,East,Incident Response,Enterprise,4,Won,57149.54,57769.44,57149.54,-619.9,98.93,April,4,2025Q2,2025
+265,07-04-25,Omar Farooq,North,Penetration Testing,SMB,4,Won,33425.26,34248.82,33425.26,-823.56,97.6,April,4,2025Q2,2025
+266,07-04-25,Ayesha Noor,South,Penetration Testing,Startup,4,Lost,27857.03,24382.55,0,3474.48,114.25,April,4,2025Q2,2025
+267,07-04-25,Ahmed Khan,North,Cloud Security,SMB,1,Won,11192.19,12194.48,11192.19,-1002.29,91.78,April,4,2025Q2,2025
+268,08-04-25,Ayesha Noor,West,Incident Response,Startup,1,Lost,13287.21,13634.37,0,-347.16,97.45,April,4,2025Q2,2025
+269,08-04-25,Ahmed Khan,South,Incident Response,SMB,5,Won,71126.46,79505.31,71126.46,-8378.85,89.46,April,4,2025Q2,2025
+270,09-04-25,Hamza Sheikh,North,Penetration Testing,Enterprise,2,Won,17515.58,17863.29,17515.58,-347.71,98.05,April,4,2025Q2,2025
+271,09-04-25,Ayesha Noor,North,Managed Security Services,Startup,2,Won,24700.65,22286.99,24700.65,2413.66,110.83,April,4,2025Q2,2025
+272,09-04-25,Hira Shah,East,Cloud Security,Enterprise,5,Lost,48404.53,52126.35,0,-3721.82,92.86,April,4,2025Q2,2025
+273,10-04-25,Hira Shah,North,Incident Response,SMB,5,Lost,74402.3,67731.03,0,6671.27,109.85,April,4,2025Q2,2025
+274,10-04-25,Bilal Hussain,South,Penetration Testing,Enterprise,4,Won,35403.65,40903.19,35403.65,-5499.54,86.55,April,4,2025Q2,2025
+275,10-04-25,Usman Malik,South,Incident Response,Enterprise,5,Won,71400.1,76011.88,71400.1,-4611.78,93.93,April,4,2025Q2,2025
+276,11-04-25,Ahmed Khan,East,Cloud Security,SMB,3,Won,33326.85,30161.51,33326.85,3165.34,110.49,April,4,2025Q2,2025
+277,11-04-25,Ahmed Khan,South,Cloud Security,Enterprise,2,Won,17528.81,20803.51,17528.81,-3274.7,84.26,April,4,2025Q2,2025
+278,11-04-25,Usman Malik,West,Security Audit,SMB,5,Won,32491.19,33512.32,32491.19,-1021.13,96.95,April,4,2025Q2,2025
+279,12-04-25,Fatima Ahmed,South,Penetration Testing,SMB,3,Lost,26502.34,23203.18,0,3299.16,114.22,April,4,2025Q2,2025
+280,12-04-25,Bilal Hussain,South,Cloud Security,Enterprise,3,Lost,27136.36,29019.39,0,-1883.03,93.51,April,4,2025Q2,2025
+281,13-04-25,Fatima Ahmed,North,Security Audit,Enterprise,3,Won,17623.87,16542.11,17623.87,1081.76,106.54,April,4,2025Q2,2025
+282,13-04-25,Fatima Ahmed,North,Security Audit,SMB,3,Won,16193.7,18319.81,16193.7,-2126.11,88.39,April,4,2025Q2,2025
+283,13-04-25,Fatima Ahmed,South,Incident Response,Enterprise,4,Won,63718.87,72399.78,63718.87,-8680.91,88.01,April,4,2025Q2,2025
+284,14-04-25,Usman Malik,East,Incident Response,SMB,3,Won,45477.19,54237.53,45477.19,-8760.34,83.85,April,4,2025Q2,2025
+285,14-04-25,Fatima Ahmed,North,Security Audit,SMB,4,Won,24974.33,25615.03,24974.33,-640.7,97.5,April,4,2025Q2,2025
+286,14-04-25,Hira Shah,East,Incident Response,Startup,4,Lost,54536.77,55040.41,0,-503.64,99.08,April,4,2025Q2,2025
+287,15-04-25,Sara Ali,South,Cloud Security,SMB,3,Won,27405.71,30522.19,27405.71,-3116.48,89.79,April,4,2025Q2,2025
+288,15-04-25,Hamza Sheikh,South,Managed Security Services,SMB,2,Won,20698.78,18553.66,20698.78,2145.12,111.56,April,4,2025Q2,2025
+289,15-04-25,Ahmed Khan,West,Cloud Security,SMB,3,Won,28398.61,29574.89,28398.61,-1176.28,96.02,April,4,2025Q2,2025
+290,16-04-25,Ahmed Khan,North,Security Audit,Enterprise,3,Won,18322.62,19077.27,18322.62,-754.65,96.04,April,4,2025Q2,2025
+291,16-04-25,Hamza Sheikh,South,Security Audit,Enterprise,3,Lost,19932.85,17567.13,0,2365.72,113.47,April,4,2025Q2,2025
+292,17-04-25,Usman Malik,West,Cloud Security,SMB,2,Won,21001.56,20923.74,21001.56,77.82,100.37,April,4,2025Q2,2025
+293,17-04-25,Ayesha Noor,North,Incident Response,SMB,1,Won,14709.28,16895.81,14709.28,-2186.53,87.06,April,4,2025Q2,2025
+294,17-04-25,Usman Malik,South,Incident Response,SMB,1,Won,17039.04,19589,17039.04,-2549.96,86.98,April,4,2025Q2,2025
+295,18-04-25,Ahmed Khan,South,Security Audit,Startup,4,Lost,25578.57,22630.21,0,2948.36,113.03,April,4,2025Q2,2025
+296,18-04-25,Ahmed Khan,North,Penetration Testing,Startup,4,Won,36129.59,31857.35,36129.59,4272.24,113.41,April,4,2025Q2,2025
+297,18-04-25,Hamza Sheikh,North,Incident Response,Startup,2,Lost,30248.29,28492.18,0,1756.11,106.16,April,4,2025Q2,2025
+298,19-04-25,Fatima Ahmed,North,Cloud Security,SMB,5,Won,46383.56,53627.19,46383.56,-7243.63,86.49,April,4,2025Q2,2025
+299,19-04-25,Usman Malik,South,Incident Response,Enterprise,1,Won,12987.72,11625.51,12987.72,1362.21,111.72,April,4,2025Q2,2025
+300,19-04-25,Omar Farooq,South,Cloud Security,SMB,4,Lost,42713.02,47069.7,0,-4356.68,90.74,April,4,2025Q2,2025
+301,20-04-25,Hamza Sheikh,West,Security Audit,Enterprise,1,Lost,5318.35,4708.91,0,609.44,112.94,April,4,2025Q2,2025
+302,20-04-25,Hira Shah,East,Incident Response,SMB,2,Won,28224.98,30147.05,28224.98,-1922.07,93.62,April,4,2025Q2,2025
+303,21-04-25,Ahmed Khan,North,Cloud Security,SMB,2,Won,20194.83,19682.36,20194.83,512.47,102.6,April,4,2025Q2,2025
+304,21-04-25,Hamza Sheikh,South,Security Audit,SMB,5,Won,30579.75,34436.46,30579.75,-3856.71,88.8,April,4,2025Q2,2025
+305,21-04-25,Usman Malik,South,Penetration Testing,Enterprise,5,Won,41207,38396.34,41207,2810.66,107.32,April,4,2025Q2,2025
+306,22-04-25,Ahmed Khan,North,Cloud Security,Enterprise,2,Won,17997.53,19324.32,17997.53,-1326.79,93.13,April,4,2025Q2,2025
+307,22-04-25,Ayesha Noor,East,Penetration Testing,SMB,4,Won,30845.48,28763.07,30845.48,2082.41,107.24,April,4,2025Q2,2025
+308,22-04-25,Hamza Sheikh,North,Penetration Testing,Enterprise,1,Won,8281.27,9107.58,8281.27,-826.31,90.93,April,4,2025Q2,2025
+309,23-04-25,Bilal Hussain,East,Managed Security Services,Startup,3,Won,41074.04,47472.85,41074.04,-6398.81,86.52,April,4,2025Q2,2025
+310,23-04-25,Ahmed Khan,South,Incident Response,Enterprise,5,Lost,80121.7,71659.3,0,8462.4,111.81,April,4,2025Q2,2025
+311,23-04-25,Usman Malik,East,Cloud Security,Enterprise,3,Won,33803.43,38985.78,33803.43,-5182.35,86.71,April,4,2025Q2,2025
+312,24-04-25,Sara Ali,West,Penetration Testing,Enterprise,4,Won,34517.24,36510.66,34517.24,-1993.42,94.54,April,4,2025Q2,2025
+313,24-04-25,Omar Farooq,South,Managed Security Services,SMB,5,Won,61650.91,55146.04,61650.91,6504.87,111.8,April,4,2025Q2,2025
+314,25-04-25,Mariam Khan,West,Security Audit,SMB,3,Won,16336.93,16331.04,16336.93,5.89,100.04,April,4,2025Q2,2025
+315,25-04-25,Fatima Ahmed,North,Cloud Security,Enterprise,4,Won,42000.23,38064.85,42000.23,3935.38,110.34,April,4,2025Q2,2025
+316,25-04-25,Mariam Khan,North,Penetration Testing,Enterprise,1,Won,8296.11,9085.25,8296.11,-789.14,91.31,April,4,2025Q2,2025
+317,26-04-25,Usman Malik,North,Incident Response,SMB,4,Lost,61844.45,68993.91,0,-7149.46,89.64,April,4,2025Q2,2025
+318,26-04-25,Hira Shah,East,Managed Security Services,Enterprise,5,Won,59816.15,53058.65,59816.15,6757.5,112.74,April,4,2025Q2,2025
+319,26-04-25,Hira Shah,South,Penetration Testing,SMB,2,Won,16137.55,16575.67,16137.55,-438.12,97.36,April,4,2025Q2,2025
+320,27-04-25,Sara Ali,North,Incident Response,SMB,1,Won,14254.99,16181.11,14254.99,-1926.12,88.1,April,4,2025Q2,2025
+321,27-04-25,Fatima Ahmed,North,Penetration Testing,Enterprise,3,Lost,24139.05,28427.52,0,-4288.47,84.91,April,4,2025Q2,2025
+322,27-04-25,Bilal Hussain,South,Cloud Security,Enterprise,5,Won,45463.34,46815.02,45463.34,-1351.68,97.11,April,4,2025Q2,2025
+323,28-04-25,Sara Ali,North,Cloud Security,Startup,2,Lost,21831.05,25817.35,0,-3986.3,84.56,April,4,2025Q2,2025
+324,28-04-25,Mariam Khan,West,Cloud Security,SMB,4,Won,36229.32,37587.6,36229.32,-1358.28,96.39,April,4,2025Q2,2025
+325,29-04-25,Sara Ali,South,Managed Security Services,SMB,2,Won,21011.76,20758.92,21011.76,252.84,101.22,April,4,2025Q2,2025
+326,29-04-25,Mariam Khan,South,Cloud Security,Enterprise,5,Won,49043.69,56246.79,49043.69,-7203.1,87.19,April,4,2025Q2,2025
+327,29-04-25,Ahmed Khan,South,Incident Response,SMB,5,Won,78561.92,80333.02,78561.92,-1771.1,97.8,April,4,2025Q2,2025
+328,30-04-25,Hira Shah,West,Penetration Testing,Enterprise,2,Won,15701.04,15939.16,15701.04,-238.12,98.51,April,4,2025Q2,2025
+329,30-04-25,Ahmed Khan,South,Security Audit,SMB,4,Lost,22392.63,22876.52,0,-483.89,97.88,April,4,2025Q2,2025
+330,30-04-25,Omar Farooq,West,Incident Response,Startup,2,Won,30523.54,34991.42,30523.54,-4467.88,87.23,April,4,2025Q2,2025
+331,01-05-25,Fatima Ahmed,South,Incident Response,Enterprise,5,Won,71557.55,81660.01,71557.55,-10102.46,87.63,May,5,2025Q2,2025
+332,01-05-25,Bilal Hussain,East,Cloud Security,Enterprise,5,Won,56493.02,55997.69,56493.02,495.33,100.88,May,5,2025Q2,2025
+333,01-05-25,Mariam Khan,North,Managed Security Services,Enterprise,3,Won,40564.57,39211.94,40564.57,1352.63,103.45,May,5,2025Q2,2025
+334,02-05-25,Bilal Hussain,East,Penetration Testing,Enterprise,3,Lost,24017.08,24549.65,0,-532.57,97.83,May,5,2025Q2,2025
+335,02-05-25,Mariam Khan,North,Managed Security Services,Enterprise,1,Won,11380.38,11954.75,11380.38,-574.37,95.2,May,5,2025Q2,2025
+336,03-05-25,Usman Malik,West,Penetration Testing,Enterprise,5,Won,42845.59,39992.85,42845.59,2852.74,107.13,May,5,2025Q2,2025
+337,03-05-25,Sara Ali,East,Penetration Testing,SMB,3,Won,20664.33,23306.97,20664.33,-2642.64,88.66,May,5,2025Q2,2025
+338,03-05-25,Omar Farooq,South,Managed Security Services,SMB,2,Won,23818.34,24301.11,23818.34,-482.77,98.01,May,5,2025Q2,2025
+339,04-05-25,Hira Shah,North,Incident Response,Enterprise,4,Won,57053.82,55166.25,57053.82,1887.57,103.42,May,5,2025Q2,2025
+340,04-05-25,Mariam Khan,North,Penetration Testing,Startup,2,Won,18018.57,15989.45,18018.57,2029.12,112.69,May,5,2025Q2,2025
+341,04-05-25,Bilal Hussain,East,Managed Security Services,Enterprise,4,Lost,40972.84,38252.07,0,2720.77,107.11,May,5,2025Q2,2025
+342,05-05-25,Omar Farooq,West,Penetration Testing,Startup,3,Won,24380.27,28823.54,24380.27,-4443.27,84.58,May,5,2025Q2,2025
+343,05-05-25,Ayesha Noor,East,Security Audit,Enterprise,1,Lost,6433.19,6155.18,0,278.01,104.52,May,5,2025Q2,2025
+344,05-05-25,Ayesha Noor,West,Incident Response,Startup,2,Lost,29865.16,27150.44,0,2714.72,110,May,5,2025Q2,2025
+345,06-05-25,Ahmed Khan,West,Cloud Security,SMB,2,Won,17512.42,17709.18,17512.42,-196.76,98.89,May,5,2025Q2,2025
+346,06-05-25,Hira Shah,North,Penetration Testing,Startup,2,Won,18267.81,17491.08,18267.81,776.73,104.44,May,5,2025Q2,2025
+347,07-05-25,Usman Malik,East,Security Audit,Startup,4,Won,24129.68,20807.16,24129.68,3322.52,115.97,May,5,2025Q2,2025
+348,07-05-25,Bilal Hussain,East,Cloud Security,Enterprise,3,Won,31027.68,29882.78,31027.68,1144.9,103.83,May,5,2025Q2,2025
+349,07-05-25,Sara Ali,West,Cloud Security,Startup,2,Lost,18419.66,19164.51,0,-744.85,96.11,May,5,2025Q2,2025
+350,08-05-25,Sara Ali,East,Penetration Testing,Enterprise,2,Lost,15920.79,16606.97,0,-686.18,95.87,May,5,2025Q2,2025
+351,08-05-25,Bilal Hussain,South,Managed Security Services,Enterprise,1,Won,11744.94,11448.92,11744.94,296.02,102.59,May,5,2025Q2,2025
+352,08-05-25,Fatima Ahmed,South,Penetration Testing,Enterprise,1,Won,6979.75,7025.51,6979.75,-45.76,99.35,May,5,2025Q2,2025
+353,09-05-25,Usman Malik,East,Security Audit,SMB,3,Won,15873.27,18856.35,15873.27,-2983.08,84.18,May,5,2025Q2,2025
+354,09-05-25,Omar Farooq,East,Cloud Security,Enterprise,3,Won,33037.25,32444.96,33037.25,592.29,101.83,May,5,2025Q2,2025
+355,09-05-25,Mariam Khan,West,Penetration Testing,SMB,5,Won,36877.84,34679.16,36877.84,2198.68,106.34,May,5,2025Q2,2025
+356,10-05-25,Fatima Ahmed,South,Managed Security Services,SMB,1,Won,10901.85,10195.56,10901.85,706.29,106.93,May,5,2025Q2,2025
+357,10-05-25,Mariam Khan,South,Penetration Testing,SMB,5,Won,40058.94,40468.25,40058.94,-409.31,98.99,May,5,2025Q2,2025
+358,11-05-25,Mariam Khan,North,Incident Response,Startup,4,Won,64837.45,72347.7,64837.45,-7510.25,89.62,May,5,2025Q2,2025
+359,11-05-25,Fatima Ahmed,West,Managed Security Services,SMB,5,Lost,52115.04,48055.06,0,4059.98,108.45,May,5,2025Q2,2025
+360,11-05-25,Ahmed Khan,North,Security Audit,Enterprise,2,Won,12276.51,13482.72,12276.51,-1206.21,91.05,May,5,2025Q2,2025
+361,12-05-25,Ayesha Noor,South,Cloud Security,Enterprise,5,Won,44288.16,37972.78,44288.16,6315.38,116.63,May,5,2025Q2,2025
+362,12-05-25,Mariam Khan,West,Penetration Testing,Enterprise,3,Won,20662.52,20592.82,20662.52,69.7,100.34,May,5,2025Q2,2025
+363,12-05-25,Fatima Ahmed,East,Managed Security Services,Enterprise,4,Won,41559.51,46611.18,41559.51,-5051.67,89.16,May,5,2025Q2,2025
+364,13-05-25,Fatima Ahmed,West,Incident Response,Enterprise,2,Won,33007.48,31969.61,33007.48,1037.87,103.25,May,5,2025Q2,2025
+365,13-05-25,Hamza Sheikh,East,Managed Security Services,Enterprise,5,Won,53123.5,55636.67,53123.5,-2513.17,95.48,May,5,2025Q2,2025
+366,13-05-25,Ahmed Khan,East,Incident Response,Startup,4,Won,51812.72,47758,51812.72,4054.72,108.49,May,5,2025Q2,2025
+367,14-05-25,Hira Shah,West,Security Audit,SMB,4,Won,23552.88,26136.59,23552.88,-2583.71,90.11,May,5,2025Q2,2025
+368,14-05-25,Hamza Sheikh,East,Cloud Security,Enterprise,2,Won,22063.96,19158.09,22063.96,2905.87,115.17,May,5,2025Q2,2025
+369,15-05-25,Hamza Sheikh,North,Security Audit,SMB,5,Won,27861.68,31996.07,27861.68,-4134.39,87.08,May,5,2025Q2,2025
+370,15-05-25,Bilal Hussain,South,Penetration Testing,Enterprise,4,Won,31248.44,28728.84,31248.44,2519.6,108.77,May,5,2025Q2,2025
+371,15-05-25,Ayesha Noor,East,Managed Security Services,SMB,4,Won,41374.88,47830.99,41374.88,-6456.11,86.5,May,5,2025Q2,2025
+372,16-05-25,Fatima Ahmed,North,Incident Response,SMB,1,Won,14770.85,14377.73,14770.85,393.12,102.73,May,5,2025Q2,2025
+373,16-05-25,Ayesha Noor,East,Incident Response,SMB,4,Won,61397.04,67717.21,61397.04,-6320.17,90.67,May,5,2025Q2,2025
+374,16-05-25,Usman Malik,South,Managed Security Services,SMB,1,Won,12255.27,11786.25,12255.27,469.02,103.98,May,5,2025Q2,2025
+375,17-05-25,Bilal Hussain,North,Managed Security Services,Startup,5,Won,56983.68,66503.89,56983.68,-9520.21,85.68,May,5,2025Q2,2025
+376,17-05-25,Hira Shah,South,Penetration Testing,Startup,5,Won,37786.4,33793.25,37786.4,3993.15,111.82,May,5,2025Q2,2025
+377,18-05-25,Ayesha Noor,South,Security Audit,SMB,5,Won,26459.61,24143.92,26459.61,2315.69,109.59,May,5,2025Q2,2025
+378,18-05-25,Sara Ali,North,Incident Response,SMB,3,Won,43201.78,44176.44,43201.78,-974.66,97.79,May,5,2025Q2,2025
+379,18-05-25,Mariam Khan,North,Penetration Testing,SMB,5,Won,35193.94,30924.16,35193.94,4269.78,113.81,May,5,2025Q2,2025
+380,19-05-25,Usman Malik,North,Security Audit,Enterprise,4,Won,25919.49,23809.46,25919.49,2110.03,108.86,May,5,2025Q2,2025
+381,19-05-25,Ahmed Khan,West,Penetration Testing,Enterprise,2,Won,18238.12,21526.79,18238.12,-3288.67,84.72,May,5,2025Q2,2025
+382,19-05-25,Hira Shah,North,Incident Response,Enterprise,1,Won,17115.34,20397.57,17115.34,-3282.23,83.91,May,5,2025Q2,2025
+383,20-05-25,Usman Malik,North,Managed Security Services,SMB,3,Lost,39942.77,39211.45,0,731.32,101.87,May,5,2025Q2,2025
+384,20-05-25,Mariam Khan,North,Managed Security Services,SMB,5,Won,61814.26,72517.41,61814.26,-10703.15,85.24,May,5,2025Q2,2025
+385,20-05-25,Bilal Hussain,North,Security Audit,Enterprise,5,Won,31807.79,33102.01,31807.79,-1294.22,96.09,May,5,2025Q2,2025
+386,21-05-25,Mariam Khan,East,Cloud Security,Startup,2,Won,18711.23,17671.07,18711.23,1040.16,105.89,May,5,2025Q2,2025
+387,21-05-25,Hamza Sheikh,West,Security Audit,Startup,2,Won,12470.77,13665.96,12470.77,-1195.19,91.25,May,5,2025Q2,2025
+388,22-05-25,Mariam Khan,South,Cloud Security,SMB,3,Won,29600.85,31987.14,29600.85,-2386.29,92.54,May,5,2025Q2,2025
+389,22-05-25,Hamza Sheikh,North,Penetration Testing,SMB,1,Won,7956.84,9517.92,7956.84,-1561.08,83.6,May,5,2025Q2,2025
+390,22-05-25,Bilal Hussain,East,Penetration Testing,Startup,5,Won,43093.32,40626.94,43093.32,2466.38,106.07,May,5,2025Q2,2025
+391,23-05-25,Omar Farooq,East,Incident Response,Enterprise,3,Lost,42055.9,45639.94,0,-3584.04,92.15,May,5,2025Q2,2025
+392,23-05-25,Hamza Sheikh,East,Cloud Security,SMB,4,Lost,37816.48,32832.58,0,4983.9,115.18,May,5,2025Q2,2025
+393,23-05-25,Ahmed Khan,South,Incident Response,Enterprise,4,Lost,67643.55,60187.62,0,7455.93,112.39,May,5,2025Q2,2025
+394,24-05-25,Mariam Khan,North,Managed Security Services,SMB,3,Won,31207.22,26568.94,31207.22,4638.28,117.46,May,5,2025Q2,2025
+395,24-05-25,Mariam Khan,West,Cloud Security,Enterprise,5,Lost,49784.51,59732.01,0,-9947.5,83.35,May,5,2025Q2,2025
+396,24-05-25,Ahmed Khan,West,Security Audit,Startup,3,Won,20229.12,22875,20229.12,-2645.88,88.43,May,5,2025Q2,2025
+397,25-05-25,Sara Ali,East,Managed Security Services,Startup,5,Lost,61986.53,69756.73,0,-7770.2,88.86,May,5,2025Q2,2025
+398,25-05-25,Fatima Ahmed,South,Managed Security Services,Enterprise,2,Won,24334.13,25025.32,24334.13,-691.19,97.24,May,5,2025Q2,2025
+399,26-05-25,Omar Farooq,South,Security Audit,SMB,3,Won,16648.62,15899.82,16648.62,748.8,104.71,May,5,2025Q2,2025
+400,26-05-25,Hira Shah,South,Managed Security Services,Startup,5,Won,57178.96,51629.31,57178.96,5549.65,110.75,May,5,2025Q2,2025
+401,26-05-25,Hamza Sheikh,West,Cloud Security,SMB,3,Won,33168.44,31497.95,33168.44,1670.49,105.3,May,5,2025Q2,2025
+402,27-05-25,Ahmed Khan,East,Incident Response,Startup,3,Won,45799.44,44956.27,45799.44,843.17,101.88,May,5,2025Q2,2025
+403,27-05-25,Bilal Hussain,North,Managed Security Services,SMB,5,Won,60265.36,67178.31,60265.36,-6912.95,89.71,May,5,2025Q2,2025
+404,27-05-25,Hamza Sheikh,West,Cloud Security,Enterprise,5,Won,43993.7,45704.25,43993.7,-1710.55,96.26,May,5,2025Q2,2025
+405,28-05-25,Fatima Ahmed,East,Penetration Testing,Enterprise,1,Won,6838.47,5998.15,6838.47,840.32,114.01,May,5,2025Q2,2025
+406,28-05-25,Bilal Hussain,East,Cloud Security,Enterprise,3,Won,34173.17,29262.83,34173.17,4910.34,116.78,May,5,2025Q2,2025
+407,28-05-25,Usman Malik,North,Incident Response,SMB,4,Lost,57785.75,51187.56,0,6598.19,112.89,May,5,2025Q2,2025
+408,29-05-25,Mariam Khan,North,Cloud Security,Enterprise,3,Won,30928.92,30733.28,30928.92,195.64,100.64,May,5,2025Q2,2025
+409,29-05-25,Usman Malik,North,Security Audit,SMB,3,Won,15730.46,18508.73,15730.46,-2778.27,84.99,May,5,2025Q2,2025
+410,30-05-25,Hamza Sheikh,South,Incident Response,SMB,5,Won,79120.07,84903.02,79120.07,-5782.95,93.19,May,5,2025Q2,2025
+411,30-05-25,Fatima Ahmed,North,Penetration Testing,SMB,3,Won,27114.48,30656.69,27114.48,-3542.21,88.45,May,5,2025Q2,2025
+412,30-05-25,Omar Farooq,East,Security Audit,Startup,3,Won,18408.59,18652.16,18408.59,-243.57,98.69,May,5,2025Q2,2025
+413,31-05-25,Hamza Sheikh,North,Cloud Security,Startup,4,Won,35513.38,34681.77,35513.38,831.61,102.4,May,5,2025Q2,2025
+414,31-05-25,Ahmed Khan,East,Incident Response,SMB,5,Lost,76838.73,68228.19,0,8610.54,112.62,May,5,2025Q2,2025
+415,31-05-25,Ayesha Noor,West,Penetration Testing,Startup,3,Won,25917.7,29975.8,25917.7,-4058.1,86.46,May,5,2025Q2,2025
+416,01-06-25,Hamza Sheikh,South,Security Audit,SMB,2,Won,11663.1,13110.56,11663.1,-1447.46,88.96,June,6,2025Q2,2025
+417,01-06-25,Mariam Khan,West,Penetration Testing,SMB,1,Won,8911.61,8099.24,8911.61,812.37,110.03,June,6,2025Q2,2025
+418,01-06-25,Mariam Khan,West,Cloud Security,Startup,4,Won,41784.2,43008.11,41784.2,-1223.91,97.15,June,6,2025Q2,2025
+419,02-06-25,Hamza Sheikh,East,Penetration Testing,Enterprise,3,Won,26874.59,27427.7,26874.59,-553.11,97.98,June,6,2025Q2,2025
+420,02-06-25,Bilal Hussain,West,Managed Security Services,Enterprise,2,Won,24889.24,26601.17,24889.24,-1711.93,93.56,June,6,2025Q2,2025
+421,03-06-25,Ayesha Noor,East,Security Audit,Startup,3,Won,16008.96,18909.23,16008.96,-2900.27,84.66,June,6,2025Q2,2025
+422,03-06-25,Ahmed Khan,North,Penetration Testing,SMB,3,Won,22629.78,23827.35,22629.78,-1197.57,94.97,June,6,2025Q2,2025
+423,03-06-25,Hamza Sheikh,North,Cloud Security,Startup,5,Lost,45526.92,47305.93,0,-1779.01,96.24,June,6,2025Q2,2025
+424,04-06-25,Bilal Hussain,East,Cloud Security,Startup,5,Lost,56132.4,48701.2,0,7431.2,115.26,June,6,2025Q2,2025
+425,04-06-25,Mariam Khan,North,Penetration Testing,Enterprise,5,Won,43124.8,37605.59,43124.8,5519.21,114.68,June,6,2025Q2,2025
+426,04-06-25,Mariam Khan,South,Cloud Security,Startup,2,Won,21058.39,19280.46,21058.39,1777.93,109.22,June,6,2025Q2,2025
+427,05-06-25,Fatima Ahmed,West,Incident Response,SMB,3,Won,42313.05,36446.97,42313.05,5866.08,116.09,June,6,2025Q2,2025
+428,05-06-25,Hamza Sheikh,South,Incident Response,SMB,1,Won,13578.2,15074.16,13578.2,-1495.96,90.08,June,6,2025Q2,2025
+429,05-06-25,Ayesha Noor,West,Incident Response,SMB,4,Lost,64616.12,71282.28,0,-6666.16,90.65,June,6,2025Q2,2025
+430,06-06-25,Sara Ali,North,Managed Security Services,Startup,5,Won,59534.84,53439.64,59534.84,6095.2,111.41,June,6,2025Q2,2025
+431,06-06-25,Ayesha Noor,South,Penetration Testing,Enterprise,5,Won,36709.47,41945.25,36709.47,-5235.78,87.52,June,6,2025Q2,2025
+432,07-06-25,Mariam Khan,North,Managed Security Services,SMB,3,Won,37259.52,33689.13,37259.52,3570.39,110.6,June,6,2025Q2,2025
+433,07-06-25,Mariam Khan,West,Cloud Security,SMB,3,Won,25863,24709.81,25863,1153.19,104.67,June,6,2025Q2,2025
+434,07-06-25,Usman Malik,East,Managed Security Services,SMB,2,Won,22748.43,21318.51,22748.43,1429.92,106.71,June,6,2025Q2,2025
+435,08-06-25,Mariam Khan,East,Cloud Security,SMB,2,Won,19811.34,19421.2,19811.34,390.14,102.01,June,6,2025Q2,2025
+436,08-06-25,Ahmed Khan,South,Cloud Security,Enterprise,5,Won,44719.38,41997.42,44719.38,2721.96,106.48,June,6,2025Q2,2025
+437,08-06-25,Hira Shah,North,Security Audit,Enterprise,3,Won,20617.13,21052.83,20617.13,-435.7,97.93,June,6,2025Q2,2025
+438,09-06-25,Hamza Sheikh,North,Incident Response,Enterprise,1,Won,13690.94,13589.53,13690.94,101.41,100.75,June,6,2025Q2,2025
+439,09-06-25,Ayesha Noor,South,Cloud Security,Startup,4,Won,35564.24,42509.91,35564.24,-6945.67,83.66,June,6,2025Q2,2025
+440,09-06-25,Hira Shah,East,Security Audit,Enterprise,3,Won,16399.09,14260.23,16399.09,2138.86,115,June,6,2025Q2,2025
+441,10-06-25,Bilal Hussain,West,Incident Response,Enterprise,3,Lost,48632.33,43757.59,0,4874.74,111.14,June,6,2025Q2,2025
+442,10-06-25,Sara Ali,South,Cloud Security,Startup,2,Won,19553.03,16981.59,19553.03,2571.44,115.14,June,6,2025Q2,2025
+443,11-06-25,Ahmed Khan,West,Cloud Security,Enterprise,4,Won,40784.99,43600.97,40784.99,-2815.98,93.54,June,6,2025Q2,2025
+444,11-06-25,Ayesha Noor,East,Managed Security Services,Startup,5,Won,51378.16,44651.64,51378.16,6726.52,115.06,June,6,2025Q2,2025
+445,11-06-25,Hira Shah,North,Managed Security Services,SMB,3,Won,30971.86,35393.21,30971.86,-4421.35,87.51,June,6,2025Q2,2025
+446,12-06-25,Sara Ali,East,Incident Response,Startup,5,Won,73781.07,75933.89,73781.07,-2152.82,97.16,June,6,2025Q2,2025
+447,12-06-25,Usman Malik,South,Cloud Security,Enterprise,3,Won,32849.9,33981.67,32849.9,-1131.77,96.67,June,6,2025Q2,2025
+448,12-06-25,Ahmed Khan,North,Penetration Testing,Enterprise,5,Lost,44622.87,46700.43,0,-2077.56,95.55,June,6,2025Q2,2025
+449,13-06-25,Ahmed Khan,South,Managed Security Services,SMB,4,Won,42048.57,38255.15,42048.57,3793.42,109.92,June,6,2025Q2,2025
+450,13-06-25,Usman Malik,South,Incident Response,Startup,2,Won,30345.27,27893.12,30345.27,2452.15,108.79,June,6,2025Q2,2025
+451,13-06-25,Hamza Sheikh,East,Cloud Security,SMB,4,Won,44958.76,43231.72,44958.76,1727.04,103.99,June,6,2025Q2,2025
+452,14-06-25,Usman Malik,South,Cloud Security,Enterprise,1,Won,9663.92,10221.76,9663.92,-557.84,94.54,June,6,2025Q2,2025
+453,14-06-25,Ahmed Khan,East,Penetration Testing,SMB,2,Won,17581.92,16237.63,17581.92,1344.29,108.28,June,6,2025Q2,2025
+454,15-06-25,Ahmed Khan,North,Incident Response,SMB,4,Won,53406.52,47570.05,53406.52,5836.47,112.27,June,6,2025Q2,2025
+455,15-06-25,Hira Shah,East,Cloud Security,SMB,1,Won,11306.18,13449.16,11306.18,-2142.98,84.07,June,6,2025Q2,2025
+456,15-06-25,Mariam Khan,North,Managed Security Services,SMB,3,Won,38715.37,33205.93,38715.37,5509.44,116.59,June,6,2025Q2,2025
+457,16-06-25,Sara Ali,East,Penetration Testing,Startup,3,Won,27177.61,30736.36,27177.61,-3558.75,88.42,June,6,2025Q2,2025
+458,16-06-25,Usman Malik,West,Incident Response,SMB,5,Won,78973.89,88909.78,78973.89,-9935.89,88.82,June,6,2025Q2,2025
+459,16-06-25,Sara Ali,West,Penetration Testing,Enterprise,2,Won,15344.34,14638.88,15344.34,705.46,104.82,June,6,2025Q2,2025
+460,17-06-25,Usman Malik,South,Managed Security Services,SMB,3,Lost,40732.36,36556.04,0,4176.32,111.42,June,6,2025Q2,2025
+461,17-06-25,Bilal Hussain,East,Incident Response,Enterprise,2,Won,27980.1,25209.23,27980.1,2770.87,110.99,June,6,2025Q2,2025
+462,17-06-25,Ahmed Khan,East,Penetration Testing,SMB,3,Lost,22791.64,24936.36,0,-2144.72,91.4,June,6,2025Q2,2025
+463,18-06-25,Mariam Khan,North,Security Audit,SMB,5,Won,31807.28,34192.26,31807.28,-2384.98,93.02,June,6,2025Q2,2025
+464,18-06-25,Hira Shah,South,Managed Security Services,Enterprise,4,Won,51820.55,58244.28,51820.55,-6423.73,88.97,June,6,2025Q2,2025
+465,19-06-25,Mariam Khan,East,Managed Security Services,Enterprise,5,Won,67729.26,79793.09,67729.26,-12063.83,84.88,June,6,2025Q2,2025
+466,19-06-25,Mariam Khan,South,Managed Security Services,Enterprise,1,Won,10937.29,11945.43,10937.29,-1008.14,91.56,June,6,2025Q2,2025
+467,19-06-25,Mariam Khan,West,Security Audit,Startup,3,Won,19609.19,17737.45,19609.19,1871.74,110.55,June,6,2025Q2,2025
+468,20-06-25,Sara Ali,East,Security Audit,Startup,1,Won,6429.38,6012.79,6429.38,416.59,106.93,June,6,2025Q2,2025
+469,20-06-25,Usman Malik,East,Cloud Security,Enterprise,1,Won,8691.38,9949.61,8691.38,-1258.23,87.35,June,6,2025Q2,2025
+470,20-06-25,Omar Farooq,South,Penetration Testing,Startup,2,Won,15458.67,14272.33,15458.67,1186.34,108.31,June,6,2025Q2,2025
+471,21-06-25,Bilal Hussain,East,Cloud Security,SMB,3,Won,28044.89,24550.01,28044.89,3494.88,114.24,June,6,2025Q2,2025
+472,21-06-25,Ayesha Noor,South,Penetration Testing,Enterprise,1,Won,7530.78,8254.85,7530.78,-724.07,91.23,June,6,2025Q2,2025
+473,21-06-25,Mariam Khan,East,Security Audit,Enterprise,4,Won,27477.22,27226.74,27477.22,250.48,100.92,June,6,2025Q2,2025
+474,22-06-25,Hamza Sheikh,North,Security Audit,SMB,1,Lost,6257,7333.29,0,-1076.29,85.32,June,6,2025Q2,2025
+475,22-06-25,Sara Ali,South,Cloud Security,SMB,4,Won,42612.11,45918.35,42612.11,-3306.24,92.8,June,6,2025Q2,2025
+476,23-06-25,Hira Shah,East,Incident Response,SMB,2,Won,34289.56,30231.28,34289.56,4058.28,113.42,June,6,2025Q2,2025
+477,23-06-25,Ayesha Noor,West,Cloud Security,Enterprise,1,Won,9631.61,11382.15,9631.61,-1750.54,84.62,June,6,2025Q2,2025
+478,23-06-25,Omar Farooq,East,Penetration Testing,Enterprise,5,Won,43622.08,41026.35,43622.08,2595.73,106.33,June,6,2025Q2,2025
+479,24-06-25,Hamza Sheikh,West,Cloud Security,SMB,2,Lost,19607.19,18980.24,0,626.95,103.3,June,6,2025Q2,2025
+480,24-06-25,Omar Farooq,West,Managed Security Services,Enterprise,4,Won,53321.28,52830.25,53321.28,491.03,100.93,June,6,2025Q2,2025
+481,24-06-25,Ayesha Noor,North,Penetration Testing,Enterprise,2,Won,14467.16,12556.46,14467.16,1910.7,115.22,June,6,2025Q2,2025
+482,25-06-25,Mariam Khan,South,Penetration Testing,Enterprise,1,Won,9074.45,9290.24,9074.45,-215.79,97.68,June,6,2025Q2,2025
+483,25-06-25,Hamza Sheikh,East,Incident Response,Startup,3,Won,41203.42,36801.31,41203.42,4402.11,111.96,June,6,2025Q2,2025
+484,25-06-25,Omar Farooq,North,Security Audit,Startup,3,Won,17061.59,16896.77,17061.59,164.82,100.98,June,6,2025Q2,2025
+485,26-06-25,Hira Shah,East,Penetration Testing,SMB,4,Won,34459.45,33520.38,34459.45,939.07,102.8,June,6,2025Q2,2025
+486,26-06-25,Usman Malik,West,Security Audit,Startup,4,Won,23235.04,26034.72,23235.04,-2799.68,89.25,June,6,2025Q2,2025
+487,27-06-25,Ahmed Khan,South,Cloud Security,Enterprise,3,Won,30973.9,35034.88,30973.9,-4060.98,88.41,June,6,2025Q2,2025
+488,27-06-25,Usman Malik,East,Managed Security Services,SMB,4,Won,47201.86,42656.06,47201.86,4545.8,110.66,June,6,2025Q2,2025
+489,27-06-25,Ayesha Noor,East,Incident Response,Enterprise,2,Won,32181.33,31482.77,32181.33,698.56,102.22,June,6,2025Q2,2025
+490,28-06-25,Sara Ali,West,Security Audit,SMB,5,Won,27554.98,27022.44,27554.98,532.54,101.97,June,6,2025Q2,2025
+491,28-06-25,Ahmed Khan,East,Penetration Testing,Startup,5,Lost,34701.5,31335.23,0,3366.27,110.74,June,6,2025Q2,2025
+492,28-06-25,Bilal Hussain,East,Security Audit,SMB,2,Lost,11279.75,12740.01,0,-1460.26,88.54,June,6,2025Q2,2025
+493,29-06-25,Hira Shah,West,Penetration Testing,Enterprise,5,Won,39691.7,43562.83,39691.7,-3871.13,91.11,June,6,2025Q2,2025
+494,29-06-25,Bilal Hussain,North,Security Audit,SMB,1,Won,5402.44,4952.06,5402.44,450.38,109.09,June,6,2025Q2,2025
+495,29-06-25,Hamza Sheikh,West,Penetration Testing,Enterprise,2,Won,15303.03,14971.76,15303.03,331.27,102.21,June,6,2025Q2,2025
+496,30-06-25,Ahmed Khan,North,Cloud Security,Startup,4,Won,38799.8,34416.65,38799.8,4383.15,112.74,June,6,2025Q2,2025
+497,30-06-25,Bilal Hussain,South,Penetration Testing,SMB,2,Lost,13875.48,14844.99,0,-969.51,93.47,June,6,2025Q2,2025
+498,01-07-25,Bilal Hussain,North,Penetration Testing,SMB,3,Won,24599.81,21954.84,24599.81,2644.97,112.05,July,7,2025Q3,2025
+499,01-07-25,Omar Farooq,North,Managed Security Services,SMB,4,Won,53534.55,63977.91,53534.55,-10443.36,83.68,July,7,2025Q3,2025
+500,01-07-25,Usman Malik,South,Penetration Testing,SMB,3,Lost,21492.55,24141.26,0,-2648.71,89.03,July,7,2025Q3,2025
+501,02-07-25,Omar Farooq,North,Managed Security Services,Enterprise,4,Won,49408.44,48745.55,49408.44,662.89,101.36,July,7,2025Q3,2025
+502,02-07-25,Ahmed Khan,West,Incident Response,SMB,5,Lost,78706.63,82838.52,0,-4131.89,95.01,July,7,2025Q3,2025
+503,02-07-25,Ahmed Khan,North,Managed Security Services,Enterprise,2,Won,23419.21,27376.35,23419.21,-3957.14,85.55,July,7,2025Q3,2025
+504,03-07-25,Ayesha Noor,South,Cloud Security,SMB,1,Won,10603.29,11069.14,10603.29,-465.85,95.79,July,7,2025Q3,2025
+505,03-07-25,Omar Farooq,West,Managed Security Services,Startup,4,Won,46714.53,42560.42,46714.53,4154.11,109.76,July,7,2025Q3,2025
+506,04-07-25,Fatima Ahmed,South,Incident Response,Startup,4,Won,60083.47,59034.78,60083.47,1048.69,101.78,July,7,2025Q3,2025
+507,04-07-25,Usman Malik,South,Cloud Security,SMB,3,Lost,25566.18,29275.85,0,-3709.67,87.33,July,7,2025Q3,2025
+508,04-07-25,Ahmed Khan,East,Security Audit,SMB,5,Won,31725.48,34119.95,31725.48,-2394.47,92.98,July,7,2025Q3,2025
+509,05-07-25,Ayesha Noor,East,Security Audit,Enterprise,3,Won,18871.25,20338.56,18871.25,-1467.31,92.79,July,7,2025Q3,2025
+510,05-07-25,Omar Farooq,South,Managed Security Services,SMB,3,Won,31014.73,35772,31014.73,-4757.27,86.7,July,7,2025Q3,2025
+511,05-07-25,Usman Malik,South,Managed Security Services,Enterprise,5,Lost,57628.5,67015.64,0,-9387.14,85.99,July,7,2025Q3,2025
+512,06-07-25,Omar Farooq,South,Incident Response,SMB,1,Won,17155.64,20105.16,17155.64,-2949.52,85.33,July,7,2025Q3,2025
+513,06-07-25,Bilal Hussain,East,Incident Response,Enterprise,3,Lost,43929.94,38798.8,0,5131.14,113.22,July,7,2025Q3,2025
+514,06-07-25,Ayesha Noor,East,Penetration Testing,Enterprise,3,Won,24014.01,24985.24,24014.01,-971.23,96.11,July,7,2025Q3,2025
+515,07-07-25,Usman Malik,North,Incident Response,SMB,4,Won,67378.74,74735.04,67378.74,-7356.3,90.16,July,7,2025Q3,2025
+516,07-07-25,Mariam Khan,North,Penetration Testing,Enterprise,5,Lost,42607.14,47503.74,0,-4896.6,89.69,July,7,2025Q3,2025
+517,08-07-25,Hamza Sheikh,South,Cloud Security,SMB,2,Won,20492.42,21770.14,20492.42,-1277.72,94.13,July,7,2025Q3,2025
+518,08-07-25,Hamza Sheikh,West,Managed Security Services,Enterprise,1,Won,13072.1,11874.38,13072.1,1197.72,110.09,July,7,2025Q3,2025
+519,08-07-25,Usman Malik,West,Cloud Security,Enterprise,1,Lost,11093.1,12525.19,0,-1432.09,88.57,July,7,2025Q3,2025
+520,09-07-25,Omar Farooq,East,Incident Response,SMB,5,Won,74029.98,81583.92,74029.98,-7553.94,90.74,July,7,2025Q3,2025
+521,09-07-25,Ayesha Noor,East,Cloud Security,Enterprise,4,Won,39701.3,34943,39701.3,4758.3,113.62,July,7,2025Q3,2025
+522,09-07-25,Hamza Sheikh,East,Cloud Security,Enterprise,4,Won,38632.61,39109.08,38632.61,-476.47,98.78,July,7,2025Q3,2025
+523,10-07-25,Ayesha Noor,South,Cloud Security,SMB,5,Won,57000.59,51921.39,57000.59,5079.2,109.78,July,7,2025Q3,2025
+524,10-07-25,Hamza Sheikh,West,Incident Response,Enterprise,4,Won,63548.99,61522.86,63548.99,2026.13,103.29,July,7,2025Q3,2025
+525,10-07-25,Bilal Hussain,North,Cloud Security,Startup,1,Won,8749.67,7492.59,8749.67,1257.08,116.78,July,7,2025Q3,2025
+526,11-07-25,Omar Farooq,South,Penetration Testing,Enterprise,1,Lost,8871.1,8783.41,0,87.69,101,July,7,2025Q3,2025
+527,11-07-25,Bilal Hussain,North,Incident Response,Enterprise,2,Won,29825.04,31091.32,29825.04,-1266.28,95.93,July,7,2025Q3,2025
+528,12-07-25,Hamza Sheikh,North,Cloud Security,SMB,5,Won,43531.31,46441.55,43531.31,-2910.24,93.73,July,7,2025Q3,2025
+529,12-07-25,Mariam Khan,South,Incident Response,Enterprise,3,Won,45671.18,49426.34,45671.18,-3755.16,92.4,July,7,2025Q3,2025
+530,12-07-25,Mariam Khan,North,Security Audit,Enterprise,3,Won,17552.69,20057.49,17552.69,-2504.8,87.51,July,7,2025Q3,2025
+531,13-07-25,Bilal Hussain,West,Penetration Testing,Enterprise,2,Won,17813.2,16484.55,17813.2,1328.65,108.06,July,7,2025Q3,2025
+532,13-07-25,Mariam Khan,North,Cloud Security,Enterprise,2,Won,18223.97,16258.85,18223.97,1965.12,112.09,July,7,2025Q3,2025
+533,13-07-25,Hamza Sheikh,West,Security Audit,Startup,4,Won,26350.55,30251.43,26350.55,-3900.88,87.11,July,7,2025Q3,2025
+534,14-07-25,Usman Malik,West,Security Audit,Enterprise,2,Won,12207.68,11045.69,12207.68,1161.99,110.52,July,7,2025Q3,2025
+535,14-07-25,Bilal Hussain,West,Incident Response,SMB,2,Won,25991.49,30960.18,25991.49,-4968.69,83.95,July,7,2025Q3,2025
+536,14-07-25,Sara Ali,East,Security Audit,Startup,3,Won,20547.96,23525.12,20547.96,-2977.16,87.34,July,7,2025Q3,2025
+537,15-07-25,Omar Farooq,North,Penetration Testing,SMB,4,Won,32121.11,32933.99,32121.11,-812.88,97.53,July,7,2025Q3,2025
+538,15-07-25,Mariam Khan,South,Penetration Testing,Startup,2,Won,14996.21,17897.94,14996.21,-2901.73,83.79,July,7,2025Q3,2025
+539,16-07-25,Mariam Khan,South,Managed Security Services,Enterprise,2,Lost,23779.73,21023.23,0,2756.5,113.11,July,7,2025Q3,2025
+540,16-07-25,Ahmed Khan,North,Penetration Testing,Startup,4,Won,35435.43,33878.86,35435.43,1556.57,104.59,July,7,2025Q3,2025
+541,16-07-25,Fatima Ahmed,East,Security Audit,Enterprise,5,Won,28244.13,30316.64,28244.13,-2072.51,93.16,July,7,2025Q3,2025
+542,17-07-25,Bilal Hussain,East,Penetration Testing,SMB,4,Won,29049.69,28250.89,29049.69,798.8,102.83,July,7,2025Q3,2025
+543,17-07-25,Hira Shah,West,Incident Response,SMB,3,Won,39992.46,46988.36,39992.46,-6995.9,85.11,July,7,2025Q3,2025
+544,17-07-25,Mariam Khan,North,Managed Security Services,Enterprise,5,Won,56361.47,49201.82,56361.47,7159.65,114.55,July,7,2025Q3,2025
+545,18-07-25,Omar Farooq,North,Security Audit,SMB,1,Lost,6504.09,6779.17,0,-275.08,95.94,July,7,2025Q3,2025
+546,18-07-25,Sara Ali,South,Managed Security Services,SMB,4,Won,47591.42,50294.76,47591.42,-2703.34,94.63,July,7,2025Q3,2025
+547,18-07-25,Mariam Khan,North,Security Audit,Enterprise,3,Won,16528.4,17825.13,16528.4,-1296.73,92.73,July,7,2025Q3,2025
+548,19-07-25,Sara Ali,East,Incident Response,Enterprise,5,Won,67489.16,63404.93,67489.16,4084.23,106.44,July,7,2025Q3,2025
+549,19-07-25,Hamza Sheikh,North,Managed Security Services,SMB,4,Won,45591.3,44569.98,45591.3,1021.32,102.29,July,7,2025Q3,2025
+550,20-07-25,Hamza Sheikh,South,Cloud Security,SMB,2,Won,22639.55,25928.81,22639.55,-3289.26,87.31,July,7,2025Q3,2025
+551,20-07-25,Fatima Ahmed,West,Security Audit,Startup,4,Won,22869.79,20999.73,22869.79,1870.06,108.91,July,7,2025Q3,2025
+552,20-07-25,Usman Malik,South,Cloud Security,SMB,1,Won,11464.37,13062.55,11464.37,-1598.18,87.77,July,7,2025Q3,2025
+553,21-07-25,Hira Shah,South,Managed Security Services,Startup,4,Lost,47787.32,50029.95,0,-2242.63,95.52,July,7,2025Q3,2025
+554,21-07-25,Ahmed Khan,West,Cloud Security,SMB,5,Lost,45187.46,50463.8,0,-5276.34,89.54,July,7,2025Q3,2025
+555,21-07-25,Fatima Ahmed,South,Cloud Security,Enterprise,5,Lost,55867.1,61440.55,0,-5573.45,90.93,July,7,2025Q3,2025
+556,22-07-25,Ayesha Noor,South,Managed Security Services,Enterprise,4,Won,47429.12,43759.48,47429.12,3669.64,108.39,July,7,2025Q3,2025
+557,22-07-25,Ahmed Khan,North,Incident Response,SMB,5,Lost,79717.61,83630.51,0,-3912.9,95.32,July,7,2025Q3,2025
+558,22-07-25,Bilal Hussain,North,Cloud Security,SMB,2,Won,22902.27,26422.42,22902.27,-3520.15,86.68,July,7,2025Q3,2025
+559,23-07-25,Omar Farooq,West,Cloud Security,Enterprise,4,Won,34602.1,34645.03,34602.1,-42.93,99.88,July,7,2025Q3,2025
+560,23-07-25,Ayesha Noor,North,Incident Response,Enterprise,2,Won,26370.25,31335.95,26370.25,-4965.7,84.15,July,7,2025Q3,2025
+561,24-07-25,Ayesha Noor,North,Cloud Security,Startup,2,Won,21322.74,21499.19,21322.74,-176.45,99.18,July,7,2025Q3,2025
+562,24-07-25,Fatima Ahmed,South,Cloud Security,SMB,3,Lost,28036.43,25232.09,0,2804.34,111.11,July,7,2025Q3,2025
+563,24-07-25,Usman Malik,East,Cloud Security,SMB,4,Won,36211.62,35715.6,36211.62,496.02,101.39,July,7,2025Q3,2025
+564,25-07-25,Fatima Ahmed,North,Penetration Testing,SMB,5,Won,34472.34,40784.08,34472.34,-6311.74,84.52,July,7,2025Q3,2025
+565,25-07-25,Bilal Hussain,East,Incident Response,Enterprise,2,Won,25696.62,24717.64,25696.62,978.98,103.96,July,7,2025Q3,2025
+566,25-07-25,Mariam Khan,North,Cloud Security,Enterprise,3,Won,32470.37,37465.43,32470.37,-4995.06,86.67,July,7,2025Q3,2025
+567,26-07-25,Mariam Khan,North,Incident Response,Enterprise,4,Won,53419.8,61883.51,53419.8,-8463.71,86.32,July,7,2025Q3,2025
+568,26-07-25,Usman Malik,West,Security Audit,Enterprise,4,Lost,23767.59,23115.53,0,652.06,102.82,July,7,2025Q3,2025
+569,26-07-25,Bilal Hussain,West,Security Audit,SMB,1,Won,6190.61,5442.41,6190.61,748.2,113.75,July,7,2025Q3,2025
+570,27-07-25,Usman Malik,West,Cloud Security,SMB,1,Won,9785.06,10798.75,9785.06,-1013.69,90.61,July,7,2025Q3,2025
+571,27-07-25,Sara Ali,East,Incident Response,Startup,2,Lost,25743.96,24689.21,0,1054.75,104.27,July,7,2025Q3,2025
+572,28-07-25,Mariam Khan,South,Incident Response,Startup,1,Lost,16275.76,18294.33,0,-2018.57,88.97,July,7,2025Q3,2025
+573,28-07-25,Ayesha Noor,North,Incident Response,Enterprise,2,Won,25594.62,25720.78,25594.62,-126.16,99.51,July,7,2025Q3,2025
+574,28-07-25,Hira Shah,North,Penetration Testing,SMB,5,Won,43142.68,43998.78,43142.68,-856.1,98.05,July,7,2025Q3,2025
+575,29-07-25,Omar Farooq,North,Security Audit,SMB,2,Won,13415.9,15056.24,13415.9,-1640.34,89.11,July,7,2025Q3,2025
+576,29-07-25,Bilal Hussain,East,Incident Response,Startup,1,Won,14697.78,14460.08,14697.78,237.7,101.64,July,7,2025Q3,2025
+577,29-07-25,Ahmed Khan,West,Incident Response,Enterprise,5,Won,75799.71,76185.88,75799.71,-386.17,99.49,July,7,2025Q3,2025
+578,30-07-25,Usman Malik,South,Penetration Testing,SMB,1,Won,7944.76,7799.11,7944.76,145.65,101.87,July,7,2025Q3,2025
+579,30-07-25,Omar Farooq,East,Penetration Testing,SMB,2,Lost,15468.2,15136.7,0,331.5,102.19,July,7,2025Q3,2025
+580,30-07-25,Ahmed Khan,West,Incident Response,Enterprise,3,Won,50230.23,51942.14,50230.23,-1711.91,96.7,July,7,2025Q3,2025
+581,31-07-25,Omar Farooq,East,Managed Security Services,Enterprise,4,Lost,53672.64,60815.38,0,-7142.74,88.26,July,7,2025Q3,2025
+582,31-07-25,Hira Shah,South,Incident Response,SMB,1,Lost,14261.17,13927.73,0,333.44,102.39,July,7,2025Q3,2025
+583,01-08-25,Ahmed Khan,West,Incident Response,SMB,2,Won,31035.63,32074.99,31035.63,-1039.36,96.76,August,8,2025Q3,2025
+584,01-08-25,Fatima Ahmed,East,Penetration Testing,Enterprise,5,Won,45122.89,48947.26,45122.89,-3824.37,92.19,August,8,2025Q3,2025
+585,01-08-25,Hamza Sheikh,South,Penetration Testing,SMB,1,Won,9108.94,8601.61,9108.94,507.33,105.9,August,8,2025Q3,2025
+586,02-08-25,Fatima Ahmed,North,Incident Response,Enterprise,1,Lost,15040.32,14245.18,0,795.14,105.58,August,8,2025Q3,2025
+587,02-08-25,Mariam Khan,South,Incident Response,SMB,4,Lost,59150.85,69602.49,0,-10451.64,84.98,August,8,2025Q3,2025
+588,02-08-25,Hamza Sheikh,North,Incident Response,Enterprise,2,Won,28008.25,30899.74,28008.25,-2891.49,90.64,August,8,2025Q3,2025
+589,03-08-25,Fatima Ahmed,East,Penetration Testing,Startup,3,Won,27303.88,28724.1,27303.88,-1420.22,95.06,August,8,2025Q3,2025
+590,03-08-25,Hamza Sheikh,West,Incident Response,Enterprise,5,Won,66963.32,72099.54,66963.32,-5136.22,92.88,August,8,2025Q3,2025
+591,03-08-25,Hamza Sheikh,West,Incident Response,Enterprise,2,Won,30718.47,26425.71,30718.47,4292.76,116.24,August,8,2025Q3,2025
+592,04-08-25,Ayesha Noor,East,Cloud Security,Enterprise,5,Lost,46738.25,49838.68,0,-3100.43,93.78,August,8,2025Q3,2025
+593,04-08-25,Usman Malik,West,Managed Security Services,Enterprise,1,Won,11204.43,11521.83,11204.43,-317.4,97.25,August,8,2025Q3,2025
+594,05-08-25,Usman Malik,West,Security Audit,SMB,4,Won,23315.77,24272.01,23315.77,-956.24,96.06,August,8,2025Q3,2025
+595,05-08-25,Ayesha Noor,North,Managed Security Services,Enterprise,4,Won,55182.62,53847.11,55182.62,1335.51,102.48,August,8,2025Q3,2025
+596,05-08-25,Omar Farooq,East,Cloud Security,Startup,3,Won,25994.7,22836.76,25994.7,3157.94,113.83,August,8,2025Q3,2025
+597,06-08-25,Sara Ali,South,Security Audit,Enterprise,4,Won,24565.5,22542.99,24565.5,2022.51,108.97,August,8,2025Q3,2025
+598,06-08-25,Omar Farooq,North,Incident Response,Enterprise,1,Won,13121.57,15519.68,13121.57,-2398.11,84.55,August,8,2025Q3,2025
+599,06-08-25,Ahmed Khan,East,Cloud Security,Enterprise,3,Won,26890.69,26703.66,26890.69,187.03,100.7,August,8,2025Q3,2025
+600,07-08-25,Ahmed Khan,North,Incident Response,Enterprise,2,Won,29456.07,29848.99,29456.07,-392.92,98.68,August,8,2025Q3,2025
+601,07-08-25,Hamza Sheikh,South,Penetration Testing,Enterprise,4,Won,32100.42,27877.56,32100.42,4222.86,115.15,August,8,2025Q3,2025
+602,07-08-25,Fatima Ahmed,South,Cloud Security,SMB,3,Won,27829.13,24020.66,27829.13,3808.47,115.85,August,8,2025Q3,2025
+603,08-08-25,Fatima Ahmed,East,Penetration Testing,SMB,1,Won,7559.5,8323.11,7559.5,-763.61,90.83,August,8,2025Q3,2025
+604,08-08-25,Usman Malik,South,Cloud Security,SMB,5,Won,43804.51,45483.67,43804.51,-1679.16,96.31,August,8,2025Q3,2025
+605,09-08-25,Bilal Hussain,North,Cloud Security,SMB,5,Won,47048.3,48367.87,47048.3,-1319.57,97.27,August,8,2025Q3,2025
+606,09-08-25,Omar Farooq,South,Penetration Testing,SMB,1,Won,9119.74,8527.81,9119.74,591.93,106.94,August,8,2025Q3,2025
+607,09-08-25,Mariam Khan,North,Security Audit,Enterprise,1,Won,6800.47,7553.03,6800.47,-752.56,90.04,August,8,2025Q3,2025
+608,10-08-25,Hira Shah,North,Managed Security Services,SMB,5,Won,57027.81,51831.6,57027.81,5196.21,110.03,August,8,2025Q3,2025
+609,10-08-25,Fatima Ahmed,South,Incident Response,Startup,3,Lost,45956.53,42118.11,0,3838.42,109.11,August,8,2025Q3,2025
+610,10-08-25,Hira Shah,East,Cloud Security,SMB,5,Won,56143.93,56775.51,56143.93,-631.58,98.89,August,8,2025Q3,2025
+611,11-08-25,Hamza Sheikh,West,Incident Response,SMB,1,Won,12777.83,12141.47,12777.83,636.36,105.24,August,8,2025Q3,2025
+612,11-08-25,Hira Shah,South,Penetration Testing,Enterprise,4,Won,34982.56,32765.09,34982.56,2217.47,106.77,August,8,2025Q3,2025
+613,11-08-25,Mariam Khan,North,Incident Response,SMB,2,Lost,34035.33,36616.34,0,-2581.01,92.95,August,8,2025Q3,2025
+614,12-08-25,Ayesha Noor,North,Penetration Testing,SMB,4,Won,28076.73,30262.23,28076.73,-2185.5,92.78,August,8,2025Q3,2025
+615,12-08-25,Mariam Khan,South,Incident Response,SMB,4,Won,53906.06,61376.41,53906.06,-7470.35,87.83,August,8,2025Q3,2025
+616,13-08-25,Hira Shah,East,Managed Security Services,Startup,1,Won,13658.69,13606.76,13658.69,51.93,100.38,August,8,2025Q3,2025
+617,13-08-25,Mariam Khan,East,Managed Security Services,Enterprise,5,Won,60675.72,53126.43,60675.72,7549.29,114.21,August,8,2025Q3,2025
+618,13-08-25,Sara Ali,North,Managed Security Services,Enterprise,3,Won,30753.32,29085.97,30753.32,1667.35,105.73,August,8,2025Q3,2025
+619,14-08-25,Hamza Sheikh,North,Managed Security Services,SMB,4,Won,44509.9,53100.4,44509.9,-8590.5,83.82,August,8,2025Q3,2025
+620,14-08-25,Omar Farooq,East,Managed Security Services,Startup,5,Won,59098.99,62567.54,59098.99,-3468.55,94.46,August,8,2025Q3,2025
+621,14-08-25,Ayesha Noor,West,Managed Security Services,Enterprise,3,Won,38083.42,41831.13,38083.42,-3747.71,91.04,August,8,2025Q3,2025
+622,15-08-25,Fatima Ahmed,South,Penetration Testing,Enterprise,4,Won,34238.34,29190.76,34238.34,5047.58,117.29,August,8,2025Q3,2025
+623,15-08-25,Ahmed Khan,North,Cloud Security,Enterprise,3,Won,34458.79,35539.83,34458.79,-1081.04,96.96,August,8,2025Q3,2025
+624,15-08-25,Omar Farooq,North,Incident Response,Enterprise,5,Won,70219,60608.48,70219,9610.52,115.86,August,8,2025Q3,2025
+625,16-08-25,Ahmed Khan,East,Managed Security Services,SMB,2,Won,24275.18,25470.26,24275.18,-1195.08,95.31,August,8,2025Q3,2025
+626,16-08-25,Hamza Sheikh,South,Penetration Testing,SMB,5,Won,40399.88,47359.56,40399.88,-6959.68,85.3,August,8,2025Q3,2025
+627,17-08-25,Ayesha Noor,East,Penetration Testing,Enterprise,1,Won,7773.55,9242.34,7773.55,-1468.79,84.11,August,8,2025Q3,2025
+628,17-08-25,Usman Malik,South,Penetration Testing,Enterprise,3,Won,21617.97,22465.25,21617.97,-847.28,96.23,August,8,2025Q3,2025
+629,17-08-25,Fatima Ahmed,South,Cloud Security,Enterprise,2,Won,22864.74,23101.89,22864.74,-237.15,98.97,August,8,2025Q3,2025
+630,18-08-25,Sara Ali,South,Incident Response,Enterprise,3,Won,49769.78,58765.97,49769.78,-8996.19,84.69,August,8,2025Q3,2025
+631,18-08-25,Usman Malik,North,Cloud Security,SMB,3,Won,29985,32556.62,29985,-2571.62,92.1,August,8,2025Q3,2025
+632,18-08-25,Hamza Sheikh,West,Security Audit,Startup,4,Lost,24743.37,21593.9,0,3149.47,114.58,August,8,2025Q3,2025
+633,19-08-25,Omar Farooq,East,Penetration Testing,Startup,1,Lost,7345.43,7440.95,0,-95.52,98.72,August,8,2025Q3,2025
+634,19-08-25,Sara Ali,West,Security Audit,Enterprise,3,Lost,18236.45,17034.41,0,1202.04,107.06,August,8,2025Q3,2025
+635,20-08-25,Mariam Khan,East,Managed Security Services,Startup,5,Won,63509.46,64426,63509.46,-916.54,98.58,August,8,2025Q3,2025
+636,20-08-25,Hira Shah,South,Managed Security Services,SMB,5,Won,60273.01,60840.36,60273.01,-567.35,99.07,August,8,2025Q3,2025
+637,20-08-25,Sara Ali,North,Cloud Security,SMB,4,Won,45883.42,48349.69,45883.42,-2466.27,94.9,August,8,2025Q3,2025
+638,21-08-25,Hamza Sheikh,West,Incident Response,SMB,1,Won,15501.04,15111.49,15501.04,389.55,102.58,August,8,2025Q3,2025
+639,21-08-25,Bilal Hussain,North,Security Audit,Enterprise,1,Won,5767.75,5234.2,5767.75,533.55,110.19,August,8,2025Q3,2025
+640,21-08-25,Hira Shah,East,Incident Response,Enterprise,5,Won,81123.42,83257.11,81123.42,-2133.69,97.44,August,8,2025Q3,2025
+641,22-08-25,Ahmed Khan,North,Cloud Security,Enterprise,2,Lost,18022.78,20556.26,0,-2533.48,87.68,August,8,2025Q3,2025
+642,22-08-25,Fatima Ahmed,North,Managed Security Services,Enterprise,4,Won,46337.03,50155.4,46337.03,-3818.37,92.39,August,8,2025Q3,2025
+643,22-08-25,Ahmed Khan,West,Incident Response,Enterprise,4,Won,57245.26,55437.96,57245.26,1807.3,103.26,August,8,2025Q3,2025
+644,23-08-25,Sara Ali,South,Incident Response,SMB,5,Lost,73465.66,86500.9,0,-13035.24,84.93,August,8,2025Q3,2025
+645,23-08-25,Ahmed Khan,North,Managed Security Services,SMB,5,Won,65072.04,76086.96,65072.04,-11014.92,85.52,August,8,2025Q3,2025
+646,24-08-25,Hamza Sheikh,South,Security Audit,SMB,2,Won,11943.02,11026.66,11943.02,916.36,108.31,August,8,2025Q3,2025
+647,24-08-25,Mariam Khan,East,Managed Security Services,Enterprise,2,Won,26116.9,22559.68,26116.9,3557.22,115.77,August,8,2025Q3,2025
+648,24-08-25,Omar Farooq,North,Incident Response,Startup,1,Won,15344.2,17023.75,15344.2,-1679.55,90.13,August,8,2025Q3,2025
+649,25-08-25,Fatima Ahmed,West,Security Audit,Startup,4,Won,22862.9,26056.01,22862.9,-3193.11,87.75,August,8,2025Q3,2025
+650,25-08-25,Ahmed Khan,East,Security Audit,SMB,4,Lost,26231.85,31183.18,0,-4951.33,84.12,August,8,2025Q3,2025
+651,25-08-25,Ahmed Khan,East,Managed Security Services,Startup,5,Won,55289.21,64215.25,55289.21,-8926.04,86.1,August,8,2025Q3,2025
+652,26-08-25,Sara Ali,West,Incident Response,SMB,1,Lost,13759.72,14587.88,0,-828.16,94.32,August,8,2025Q3,2025
+653,26-08-25,Omar Farooq,North,Cloud Security,Startup,4,Won,40054.04,41476.69,40054.04,-1422.65,96.57,August,8,2025Q3,2025
+654,26-08-25,Usman Malik,North,Incident Response,Enterprise,1,Won,13923.82,11970.93,13923.82,1952.89,116.31,August,8,2025Q3,2025
+655,27-08-25,Ahmed Khan,East,Penetration Testing,Enterprise,1,Won,6821.81,6387.46,6821.81,434.35,106.8,August,8,2025Q3,2025
+656,27-08-25,Hamza Sheikh,North,Cloud Security,Enterprise,5,Won,52224.46,52791.89,52224.46,-567.43,98.93,August,8,2025Q3,2025
+657,28-08-25,Bilal Hussain,South,Security Audit,Enterprise,1,Won,6019.97,6441.23,6019.97,-421.26,93.46,August,8,2025Q3,2025
+658,28-08-25,Fatima Ahmed,West,Cloud Security,Enterprise,2,Won,19673.11,20559.15,19673.11,-886.04,95.69,August,8,2025Q3,2025
+659,28-08-25,Ahmed Khan,South,Security Audit,SMB,2,Won,13681.09,15184.95,13681.09,-1503.86,90.1,August,8,2025Q3,2025
+660,29-08-25,Hamza Sheikh,North,Security Audit,SMB,3,Won,18384.48,17426.99,18384.48,957.49,105.49,August,8,2025Q3,2025
+661,29-08-25,Hamza Sheikh,East,Cloud Security,SMB,5,Won,55451.47,58098.36,55451.47,-2646.89,95.44,August,8,2025Q3,2025
+662,29-08-25,Fatima Ahmed,West,Security Audit,Enterprise,3,Won,16053.03,14140.31,16053.03,1912.72,113.53,August,8,2025Q3,2025
+663,30-08-25,Usman Malik,North,Security Audit,Startup,2,Won,12249.14,12185.24,12249.14,63.9,100.52,August,8,2025Q3,2025
+664,30-08-25,Hamza Sheikh,North,Penetration Testing,SMB,3,Won,26649.45,29649.01,26649.45,-2999.56,89.88,August,8,2025Q3,2025
+665,30-08-25,Bilal Hussain,East,Incident Response,Enterprise,5,Won,76869.88,83994.97,76869.88,-7125.09,91.52,August,8,2025Q3,2025
+666,31-08-25,Hamza Sheikh,East,Incident Response,SMB,5,Won,79905.32,95624.69,79905.32,-15719.37,83.56,August,8,2025Q3,2025
+667,31-08-25,Hamza Sheikh,South,Penetration Testing,Enterprise,1,Won,7692.9,7287.19,7692.9,405.71,105.57,August,8,2025Q3,2025
+668,01-09-25,Hamza Sheikh,West,Cloud Security,Enterprise,4,Won,35109.39,35964.87,35109.39,-855.48,97.62,September,9,2025Q3,2025
+669,01-09-25,Mariam Khan,West,Managed Security Services,Startup,1,Won,11848.44,11437.72,11848.44,410.72,103.59,September,9,2025Q3,2025
+670,01-09-25,Mariam Khan,East,Managed Security Services,Enterprise,5,Lost,58100.63,58345.3,0,-244.67,99.58,September,9,2025Q3,2025
+671,02-09-25,Usman Malik,South,Managed Security Services,SMB,2,Won,26642.83,30637.46,26642.83,-3994.63,86.96,September,9,2025Q3,2025
+672,02-09-25,Ahmed Khan,West,Penetration Testing,Startup,2,Lost,14771.18,16092.8,0,-1321.62,91.79,September,9,2025Q3,2025
+673,02-09-25,Hamza Sheikh,East,Penetration Testing,SMB,1,Won,9120.16,10568.94,9120.16,-1448.78,86.29,September,9,2025Q3,2025
+674,03-09-25,Omar Farooq,North,Security Audit,Enterprise,5,Won,34123.24,31435.31,34123.24,2687.93,108.55,September,9,2025Q3,2025
+675,03-09-25,Ahmed Khan,West,Managed Security Services,Enterprise,2,Won,22182.95,25636.31,22182.95,-3453.36,86.53,September,9,2025Q3,2025
+676,03-09-25,Usman Malik,South,Cloud Security,Enterprise,5,Won,47720.78,41560.83,47720.78,6159.95,114.82,September,9,2025Q3,2025
+677,04-09-25,Ayesha Noor,South,Cloud Security,SMB,2,Lost,22373.33,25975.65,0,-3602.32,86.13,September,9,2025Q3,2025
+678,04-09-25,Ahmed Khan,South,Managed Security Services,SMB,5,Won,68399.2,66017.25,68399.2,2381.95,103.61,September,9,2025Q3,2025
+679,05-09-25,Ahmed Khan,North,Managed Security Services,Enterprise,3,Won,35389.14,33977.31,35389.14,1411.83,104.16,September,9,2025Q3,2025
+680,05-09-25,Hira Shah,West,Managed Security Services,Startup,5,Won,56777.95,58437.63,56777.95,-1659.68,97.16,September,9,2025Q3,2025
+681,05-09-25,Sara Ali,West,Penetration Testing,SMB,5,Won,40313.13,47538.92,40313.13,-7225.79,84.8,September,9,2025Q3,2025
+682,06-09-25,Hira Shah,North,Penetration Testing,Enterprise,1,Lost,8450.65,7324.38,0,1126.27,115.38,September,9,2025Q3,2025
+683,06-09-25,Bilal Hussain,West,Penetration Testing,SMB,3,Won,22369.02,21771.34,22369.02,597.68,102.75,September,9,2025Q3,2025
+684,06-09-25,Mariam Khan,North,Incident Response,SMB,4,Lost,64256.52,73882.16,0,-9625.64,86.97,September,9,2025Q3,2025
+685,07-09-25,Mariam Khan,North,Cloud Security,Enterprise,1,Won,8654.97,8556.47,8654.97,98.5,101.15,September,9,2025Q3,2025
+686,07-09-25,Sara Ali,North,Cloud Security,Enterprise,4,Lost,34591.53,31814,0,2777.53,108.73,September,9,2025Q3,2025
+687,07-09-25,Fatima Ahmed,South,Security Audit,Startup,2,Won,11590.64,11575.32,11590.64,15.32,100.13,September,9,2025Q3,2025
+688,08-09-25,Fatima Ahmed,West,Penetration Testing,SMB,4,Won,30593.34,30132.71,30593.34,460.63,101.53,September,9,2025Q3,2025
+689,08-09-25,Usman Malik,North,Incident Response,SMB,5,Won,70851.75,82924.58,70851.75,-12072.83,85.44,September,9,2025Q3,2025
+690,09-09-25,Sara Ali,West,Incident Response,SMB,4,Won,59838.36,66820.12,59838.36,-6981.76,89.55,September,9,2025Q3,2025
+691,09-09-25,Ahmed Khan,South,Cloud Security,Enterprise,1,Won,9462.2,9715.7,9462.2,-253.5,97.39,September,9,2025Q3,2025
+692,09-09-25,Fatima Ahmed,North,Penetration Testing,Enterprise,1,Won,7261.42,8684.15,7261.42,-1422.73,83.62,September,9,2025Q3,2025
+693,10-09-25,Hamza Sheikh,East,Security Audit,SMB,4,Lost,22628.18,22918.89,0,-290.71,98.73,September,9,2025Q3,2025
+694,10-09-25,Omar Farooq,South,Penetration Testing,Enterprise,1,Won,9139.77,7955.1,9139.77,1184.67,114.89,September,9,2025Q3,2025
+695,10-09-25,Ahmed Khan,East,Managed Security Services,Enterprise,1,Won,11680.01,11000.19,11680.01,679.82,106.18,September,9,2025Q3,2025
+696,11-09-25,Bilal Hussain,West,Penetration Testing,Startup,4,Won,31469.24,31551.84,31469.24,-82.6,99.74,September,9,2025Q3,2025
+697,11-09-25,Hamza Sheikh,West,Managed Security Services,Startup,3,Lost,36826.69,33325.06,0,3501.63,110.51,September,9,2025Q3,2025
+698,11-09-25,Hamza Sheikh,South,Managed Security Services,SMB,3,Won,41220.08,48707.62,41220.08,-7487.54,84.63,September,9,2025Q3,2025
+699,12-09-25,Sara Ali,West,Security Audit,Startup,2,Won,11069.76,12380.39,11069.76,-1310.63,89.41,September,9,2025Q3,2025
+700,12-09-25,Usman Malik,East,Cloud Security,Enterprise,1,Lost,10543.85,9952.35,0,591.5,105.94,September,9,2025Q3,2025
+701,13-09-25,Bilal Hussain,North,Penetration Testing,Startup,4,Won,34073.45,36008.19,34073.45,-1934.74,94.63,September,9,2025Q3,2025
+702,13-09-25,Fatima Ahmed,North,Managed Security Services,Enterprise,1,Won,12386.37,13656.06,12386.37,-1269.69,90.7,September,9,2025Q3,2025
+703,13-09-25,Sara Ali,North,Penetration Testing,Startup,5,Won,35062.94,41354.9,35062.94,-6291.96,84.79,September,9,2025Q3,2025
+704,14-09-25,Fatima Ahmed,South,Cloud Security,Startup,1,Won,10530.62,12200.49,10530.62,-1669.87,86.31,September,9,2025Q3,2025
+705,14-09-25,Sara Ali,West,Cloud Security,SMB,1,Won,8692.28,8955.81,8692.28,-263.53,97.06,September,9,2025Q3,2025
+706,14-09-25,Sara Ali,East,Incident Response,Startup,3,Won,46297.93,51905.92,46297.93,-5607.99,89.2,September,9,2025Q3,2025
+707,15-09-25,Sara Ali,West,Cloud Security,SMB,4,Won,42874.97,44879.4,42874.97,-2004.43,95.53,September,9,2025Q3,2025
+708,15-09-25,Usman Malik,West,Security Audit,Enterprise,1,Won,5479.75,5717.83,5479.75,-238.08,95.84,September,9,2025Q3,2025
+709,15-09-25,Sara Ali,West,Managed Security Services,SMB,3,Won,39689.52,35330.01,39689.52,4359.51,112.34,September,9,2025Q3,2025
+710,16-09-25,Ayesha Noor,North,Incident Response,SMB,2,Won,25773.18,23045.04,25773.18,2728.14,111.84,September,9,2025Q3,2025
+711,16-09-25,Omar Farooq,East,Security Audit,Enterprise,3,Lost,19856.59,20558.26,0,-701.67,96.59,September,9,2025Q3,2025
+712,17-09-25,Fatima Ahmed,East,Penetration Testing,SMB,3,Lost,23714.37,22388.77,0,1325.6,105.92,September,9,2025Q3,2025
+713,17-09-25,Ahmed Khan,West,Managed Security Services,Startup,3,Won,32949.95,28250.07,32949.95,4699.88,116.64,September,9,2025Q3,2025
+714,17-09-25,Hira Shah,North,Cloud Security,Enterprise,1,Lost,8901.33,9818.11,0,-916.78,90.66,September,9,2025Q3,2025
+715,18-09-25,Bilal Hussain,North,Managed Security Services,SMB,1,Won,13631.91,11742.12,13631.91,1889.79,116.09,September,9,2025Q3,2025
+716,18-09-25,Mariam Khan,East,Penetration Testing,Startup,2,Lost,13948.79,14762.66,0,-813.87,94.49,September,9,2025Q3,2025
+717,18-09-25,Usman Malik,North,Incident Response,Startup,5,Lost,68229.6,70871.3,0,-2641.7,96.27,September,9,2025Q3,2025
+718,19-09-25,Ahmed Khan,North,Incident Response,Startup,5,Won,71576,85109.96,71576,-13533.96,84.1,September,9,2025Q3,2025
+719,19-09-25,Hamza Sheikh,North,Incident Response,SMB,5,Won,77705.28,79218.56,77705.28,-1513.28,98.09,September,9,2025Q3,2025
+720,19-09-25,Ayesha Noor,South,Cloud Security,Startup,2,Lost,20268.81,17679.68,0,2589.13,114.64,September,9,2025Q3,2025
+721,20-09-25,Mariam Khan,West,Security Audit,SMB,5,Lost,26630.79,27778.33,0,-1147.54,95.87,September,9,2025Q3,2025
+722,20-09-25,Hira Shah,East,Security Audit,Enterprise,5,Won,28107.55,32165.82,28107.55,-4058.27,87.38,September,9,2025Q3,2025
+723,21-09-25,Ahmed Khan,East,Managed Security Services,SMB,3,Won,33178.52,39777.64,33178.52,-6599.12,83.41,September,9,2025Q3,2025
+724,21-09-25,Mariam Khan,South,Cloud Security,SMB,1,Won,9140.63,9146.3,9140.63,-5.67,99.94,September,9,2025Q3,2025
+725,21-09-25,Ahmed Khan,West,Incident Response,Enterprise,1,Won,14600.15,14046.87,14600.15,553.28,103.94,September,9,2025Q3,2025
+726,22-09-25,Ayesha Noor,East,Incident Response,SMB,3,Won,47754.42,55745.1,47754.42,-7990.68,85.67,September,9,2025Q3,2025
+727,22-09-25,Hira Shah,North,Penetration Testing,SMB,3,Won,21965.66,20141.08,21965.66,1824.58,109.06,September,9,2025Q3,2025
+728,22-09-25,Hamza Sheikh,East,Penetration Testing,Enterprise,3,Won,23040.09,24546.91,23040.09,-1506.82,93.86,September,9,2025Q3,2025
+729,23-09-25,Sara Ali,North,Incident Response,SMB,1,Won,14509.13,14393.06,14509.13,116.07,100.81,September,9,2025Q3,2025
+730,23-09-25,Fatima Ahmed,South,Incident Response,SMB,5,Won,85720.27,74094.79,85720.27,11625.48,115.69,September,9,2025Q3,2025
+731,23-09-25,Hamza Sheikh,North,Cloud Security,SMB,3,Won,34092,33122.12,34092,969.88,102.93,September,9,2025Q3,2025
+732,24-09-25,Sara Ali,East,Security Audit,Enterprise,2,Won,13080.5,12332.69,13080.5,747.81,106.06,September,9,2025Q3,2025
+733,24-09-25,Usman Malik,East,Penetration Testing,Enterprise,3,Lost,22139.94,24135.45,0,-1995.51,91.73,September,9,2025Q3,2025
+734,25-09-25,Omar Farooq,East,Security Audit,Enterprise,4,Lost,20889.87,24693.43,0,-3803.56,84.6,September,9,2025Q3,2025
+735,25-09-25,Bilal Hussain,South,Cloud Security,Startup,3,Won,28352.14,26759.22,28352.14,1592.92,105.95,September,9,2025Q3,2025
+736,25-09-25,Bilal Hussain,South,Incident Response,Enterprise,1,Won,13950.58,15820.14,13950.58,-1869.56,88.18,September,9,2025Q3,2025
+737,26-09-25,Fatima Ahmed,West,Security Audit,SMB,3,Won,18032,15676.59,18032,2355.41,115.03,September,9,2025Q3,2025
+738,26-09-25,Hira Shah,East,Incident Response,Enterprise,4,Lost,64999.1,67491.32,0,-2492.22,96.31,September,9,2025Q3,2025
+739,26-09-25,Ayesha Noor,North,Incident Response,Enterprise,2,Won,33224.91,29061.58,33224.91,4163.33,114.33,September,9,2025Q3,2025
+740,27-09-25,Hira Shah,South,Managed Security Services,Startup,5,Won,66207.55,77920.43,66207.55,-11712.88,84.97,September,9,2025Q3,2025
+741,27-09-25,Ayesha Noor,East,Security Audit,SMB,3,Won,17242.25,19280.68,17242.25,-2038.43,89.43,September,9,2025Q3,2025
+742,27-09-25,Hira Shah,East,Security Audit,Enterprise,4,Won,25348.09,27383.1,25348.09,-2035.01,92.57,September,9,2025Q3,2025
+743,28-09-25,Omar Farooq,South,Incident Response,SMB,4,Won,56631.02,64466.7,56631.02,-7835.68,87.85,September,9,2025Q3,2025
+744,28-09-25,Usman Malik,West,Cloud Security,Enterprise,2,Won,17365.43,18696.18,17365.43,-1330.75,92.88,September,9,2025Q3,2025
+745,29-09-25,Usman Malik,South,Managed Security Services,SMB,1,Lost,12725.63,15132.44,0,-2406.81,84.1,September,9,2025Q3,2025
+746,29-09-25,Sara Ali,South,Incident Response,SMB,3,Lost,38382.67,42216.53,0,-3833.86,90.92,September,9,2025Q3,2025
+747,29-09-25,Mariam Khan,North,Penetration Testing,Enterprise,4,Won,31128.15,36532.95,31128.15,-5404.8,85.21,September,9,2025Q3,2025
+748,30-09-25,Usman Malik,North,Penetration Testing,Enterprise,2,Won,15181.02,15651.57,15181.02,-470.55,96.99,September,9,2025Q3,2025
+749,30-09-25,Usman Malik,West,Managed Security Services,Enterprise,5,Won,63480.8,56559.65,63480.8,6921.15,112.24,September,9,2025Q3,2025
+750,30-09-25,Hamza Sheikh,East,Cloud Security,Startup,4,Won,43194.95,44700.82,43194.95,-1505.87,96.63,September,9,2025Q3,2025
+751,01-10-25,Hamza Sheikh,South,Incident Response,Startup,2,Lost,28236.85,25255.19,0,2981.66,111.81,October,10,2025Q4,2025
+752,01-10-25,Sara Ali,West,Security Audit,Enterprise,1,Won,6560.93,6937.35,6560.93,-376.42,94.57,October,10,2025Q4,2025
+753,02-10-25,Mariam Khan,North,Managed Security Services,SMB,1,Won,11258.1,11470.57,11258.1,-212.47,98.15,October,10,2025Q4,2025
+754,02-10-25,Fatima Ahmed,South,Cloud Security,Enterprise,4,Won,39355.92,42028.24,39355.92,-2672.32,93.64,October,10,2025Q4,2025
+755,02-10-25,Hamza Sheikh,East,Security Audit,Enterprise,4,Won,25634.53,21879.49,25634.53,3755.04,117.16,October,10,2025Q4,2025
+756,03-10-25,Fatima Ahmed,North,Penetration Testing,SMB,3,Won,25389.03,23312.06,25389.03,2076.97,108.91,October,10,2025Q4,2025
+757,03-10-25,Ahmed Khan,North,Penetration Testing,Startup,2,Won,18339.37,18742.21,18339.37,-402.84,97.85,October,10,2025Q4,2025
+758,03-10-25,Hamza Sheikh,North,Security Audit,Startup,4,Lost,22021.16,26043.9,0,-4022.74,84.55,October,10,2025Q4,2025
+759,04-10-25,Omar Farooq,West,Managed Security Services,SMB,3,Won,37753.03,37158.92,37753.03,594.11,101.6,October,10,2025Q4,2025
+760,04-10-25,Mariam Khan,East,Penetration Testing,Enterprise,3,Won,24789.71,24753.27,24789.71,36.44,100.15,October,10,2025Q4,2025
+761,04-10-25,Sara Ali,South,Incident Response,SMB,4,Won,67471.77,74228.64,67471.77,-6756.87,90.9,October,10,2025Q4,2025
+762,05-10-25,Ahmed Khan,West,Security Audit,Enterprise,1,Won,5381.45,5711.48,5381.45,-330.03,94.22,October,10,2025Q4,2025
+763,05-10-25,Mariam Khan,West,Security Audit,SMB,2,Won,12906.47,12320.83,12906.47,585.64,104.75,October,10,2025Q4,2025
+764,06-10-25,Omar Farooq,West,Penetration Testing,Enterprise,2,Won,16327.69,16226.23,16327.69,101.46,100.63,October,10,2025Q4,2025
+765,06-10-25,Mariam Khan,North,Managed Security Services,SMB,1,Won,11188.8,10363.01,11188.8,825.79,107.97,October,10,2025Q4,2025
+766,06-10-25,Omar Farooq,East,Incident Response,Enterprise,4,Won,59539.83,70739.72,59539.83,-11199.89,84.17,October,10,2025Q4,2025
+767,07-10-25,Omar Farooq,West,Managed Security Services,Enterprise,2,Won,22803.19,20425.32,22803.19,2377.87,111.64,October,10,2025Q4,2025
+768,07-10-25,Fatima Ahmed,South,Cloud Security,Startup,4,Won,40951.76,40138.58,40951.76,813.18,102.03,October,10,2025Q4,2025
+769,07-10-25,Hira Shah,East,Cloud Security,Enterprise,4,Won,44668.01,38371.77,44668.01,6296.24,116.41,October,10,2025Q4,2025
+770,08-10-25,Ahmed Khan,South,Penetration Testing,SMB,3,Won,24499,22725.83,24499,1773.17,107.8,October,10,2025Q4,2025
+771,08-10-25,Mariam Khan,East,Penetration Testing,Enterprise,1,Won,8316.13,9340.39,8316.13,-1024.26,89.03,October,10,2025Q4,2025
+772,08-10-25,Ayesha Noor,South,Penetration Testing,Enterprise,4,Won,32179.98,29618.82,32179.98,2561.16,108.65,October,10,2025Q4,2025
+773,09-10-25,Ahmed Khan,North,Cloud Security,Enterprise,5,Lost,43267.48,37989.81,0,5277.67,113.89,October,10,2025Q4,2025
+774,09-10-25,Hira Shah,West,Managed Security Services,Enterprise,1,Lost,11038.29,11215.55,0,-177.26,98.42,October,10,2025Q4,2025
+775,10-10-25,Ahmed Khan,South,Managed Security Services,Startup,2,Lost,23942.41,20434.59,0,3507.82,117.17,October,10,2025Q4,2025
+776,10-10-25,Usman Malik,East,Penetration Testing,Enterprise,3,Won,22633.69,19910.14,22633.69,2723.55,113.68,October,10,2025Q4,2025
+777,10-10-25,Ayesha Noor,West,Incident Response,Startup,2,Won,27135.87,30735.96,27135.87,-3600.09,88.29,October,10,2025Q4,2025
+778,11-10-25,Hira Shah,West,Managed Security Services,SMB,2,Won,24029.76,26913.71,24029.76,-2883.95,89.28,October,10,2025Q4,2025
+779,11-10-25,Fatima Ahmed,East,Cloud Security,SMB,1,Won,9468.43,11080.89,9468.43,-1612.46,85.45,October,10,2025Q4,2025
+780,11-10-25,Mariam Khan,South,Security Audit,SMB,2,Won,11129.19,12788.33,11129.19,-1659.14,87.03,October,10,2025Q4,2025
+781,12-10-25,Bilal Hussain,North,Security Audit,SMB,4,Won,23740.7,25856.27,23740.7,-2115.57,91.82,October,10,2025Q4,2025
+782,12-10-25,Hira Shah,North,Security Audit,SMB,2,Won,10679.82,9273.46,10679.82,1406.36,115.17,October,10,2025Q4,2025
+783,12-10-25,Sara Ali,South,Incident Response,Enterprise,3,Won,50774.57,57070.47,50774.57,-6295.9,88.97,October,10,2025Q4,2025
+784,13-10-25,Mariam Khan,West,Penetration Testing,Enterprise,3,Won,26647.46,30536.09,26647.46,-3888.63,87.27,October,10,2025Q4,2025
+785,13-10-25,Hira Shah,West,Cloud Security,Startup,5,Won,53114.31,60002.11,53114.31,-6887.8,88.52,October,10,2025Q4,2025
+786,14-10-25,Usman Malik,West,Incident Response,Startup,3,Lost,39683.89,40793.76,0,-1109.87,97.28,October,10,2025Q4,2025
+787,14-10-25,Bilal Hussain,West,Cloud Security,Startup,2,Won,21655.26,20172.21,21655.26,1483.05,107.35,October,10,2025Q4,2025
+788,14-10-25,Usman Malik,South,Cloud Security,SMB,3,Won,32771.62,37551.87,32771.62,-4780.25,87.27,October,10,2025Q4,2025
+789,15-10-25,Bilal Hussain,West,Penetration Testing,SMB,1,Won,8642.64,9545.86,8642.64,-903.22,90.54,October,10,2025Q4,2025
+790,15-10-25,Sara Ali,East,Security Audit,SMB,3,Lost,15915.42,18991.34,0,-3075.92,83.8,October,10,2025Q4,2025
+791,15-10-25,Mariam Khan,West,Penetration Testing,SMB,4,Won,33381.52,30193.33,33381.52,3188.19,110.56,October,10,2025Q4,2025
+792,16-10-25,Fatima Ahmed,North,Incident Response,Enterprise,1,Won,16504.46,15332.36,16504.46,1172.1,107.64,October,10,2025Q4,2025
+793,16-10-25,Usman Malik,West,Incident Response,SMB,5,Won,76740.45,70918.1,76740.45,5822.35,108.21,October,10,2025Q4,2025
+794,16-10-25,Usman Malik,South,Incident Response,Enterprise,4,Won,62635.33,70614.38,62635.33,-7979.05,88.7,October,10,2025Q4,2025
+795,17-10-25,Omar Farooq,North,Penetration Testing,Enterprise,2,Won,15800.14,14463.73,15800.14,1336.41,109.24,October,10,2025Q4,2025
+796,17-10-25,Bilal Hussain,South,Cloud Security,Startup,2,Won,20172.24,17617.04,20172.24,2555.2,114.5,October,10,2025Q4,2025
+797,18-10-25,Hamza Sheikh,South,Cloud Security,Enterprise,2,Won,17206.26,20638.84,17206.26,-3432.58,83.37,October,10,2025Q4,2025
+798,18-10-25,Mariam Khan,North,Managed Security Services,Enterprise,4,Lost,50001.07,42935.22,0,7065.85,116.46,October,10,2025Q4,2025
+799,18-10-25,Bilal Hussain,South,Incident Response,Enterprise,4,Lost,52466.05,59933.83,0,-7467.78,87.54,October,10,2025Q4,2025
+800,19-10-25,Omar Farooq,South,Cloud Security,Startup,4,Won,39220.18,38352.57,39220.18,867.61,102.26,October,10,2025Q4,2025
+801,19-10-25,Ahmed Khan,West,Managed Security Services,SMB,1,Won,11253.56,12880.44,11253.56,-1626.88,87.37,October,10,2025Q4,2025
+802,19-10-25,Bilal Hussain,East,Cloud Security,SMB,1,Won,10136.28,10583.46,10136.28,-447.18,95.77,October,10,2025Q4,2025
+803,20-10-25,Fatima Ahmed,South,Incident Response,Startup,2,Lost,26700.75,31121.62,0,-4420.87,85.79,October,10,2025Q4,2025
+804,20-10-25,Mariam Khan,South,Security Audit,Startup,3,Lost,19034.87,22350.13,0,-3315.26,85.17,October,10,2025Q4,2025
+805,20-10-25,Omar Farooq,South,Incident Response,Enterprise,2,Won,32655.1,27860.82,32655.1,4794.28,117.21,October,10,2025Q4,2025
+806,21-10-25,Ahmed Khan,West,Penetration Testing,SMB,5,Won,35960.25,31515.36,35960.25,4444.89,114.1,October,10,2025Q4,2025
+807,21-10-25,Ayesha Noor,East,Cloud Security,SMB,1,Lost,8812.94,8263.24,0,549.7,106.65,October,10,2025Q4,2025
+808,22-10-25,Omar Farooq,North,Cloud Security,SMB,4,Won,35746.19,38758.18,35746.19,-3011.99,92.23,October,10,2025Q4,2025
+809,22-10-25,Ayesha Noor,West,Penetration Testing,Enterprise,1,Lost,8905.11,10337.9,0,-1432.79,86.14,October,10,2025Q4,2025
+810,22-10-25,Mariam Khan,West,Penetration Testing,Startup,4,Won,32270.62,32624.94,32270.62,-354.32,98.91,October,10,2025Q4,2025
+811,23-10-25,Usman Malik,East,Security Audit,SMB,5,Won,29705.35,31560.17,29705.35,-1854.82,94.12,October,10,2025Q4,2025
+812,23-10-25,Omar Farooq,East,Cloud Security,Enterprise,5,Won,44100.68,40395.12,44100.68,3705.56,109.17,October,10,2025Q4,2025
+813,23-10-25,Sara Ali,West,Cloud Security,SMB,1,Lost,10448.67,11825.16,0,-1376.49,88.36,October,10,2025Q4,2025
+814,24-10-25,Ayesha Noor,North,Security Audit,Enterprise,4,Won,26649.6,31674.78,26649.6,-5025.18,84.14,October,10,2025Q4,2025
+815,24-10-25,Fatima Ahmed,West,Managed Security Services,Enterprise,5,Won,65907.35,62217.17,65907.35,3690.18,105.93,October,10,2025Q4,2025
+816,24-10-25,Sara Ali,East,Security Audit,SMB,2,Lost,12453.8,12742.59,0,-288.79,97.73,October,10,2025Q4,2025
+817,25-10-25,Hira Shah,North,Incident Response,Enterprise,2,Lost,26177.51,23039.89,0,3137.62,113.62,October,10,2025Q4,2025
+818,25-10-25,Hira Shah,East,Cloud Security,SMB,4,Won,35348.76,36964.12,35348.76,-1615.36,95.63,October,10,2025Q4,2025
+819,26-10-25,Ahmed Khan,North,Penetration Testing,SMB,1,Lost,6918.34,7098.04,0,-179.7,97.47,October,10,2025Q4,2025
+820,26-10-25,Usman Malik,South,Incident Response,Enterprise,5,Won,69543.28,62627.39,69543.28,6915.89,111.04,October,10,2025Q4,2025
+821,26-10-25,Mariam Khan,East,Cloud Security,Startup,1,Lost,8906.98,8949.05,0,-42.07,99.53,October,10,2025Q4,2025
+822,27-10-25,Omar Farooq,East,Security Audit,Enterprise,2,Won,11136.17,10767.97,11136.17,368.2,103.42,October,10,2025Q4,2025
+823,27-10-25,Hamza Sheikh,West,Incident Response,Enterprise,5,Lost,72413.81,74777.46,0,-2363.65,96.84,October,10,2025Q4,2025
+824,27-10-25,Fatima Ahmed,East,Cloud Security,Enterprise,1,Won,11328.95,11951.8,11328.95,-622.85,94.79,October,10,2025Q4,2025
+825,28-10-25,Ayesha Noor,East,Managed Security Services,Enterprise,3,Won,37192.06,31723.84,37192.06,5468.22,117.24,October,10,2025Q4,2025
+826,28-10-25,Mariam Khan,South,Managed Security Services,Enterprise,4,Won,52823.62,58969.76,52823.62,-6146.14,89.58,October,10,2025Q4,2025
+827,28-10-25,Sara Ali,East,Penetration Testing,SMB,4,Won,34019.37,37406.17,34019.37,-3386.8,90.95,October,10,2025Q4,2025
+828,29-10-25,Hira Shah,South,Cloud Security,Startup,3,Won,26512.53,25934.56,26512.53,577.97,102.23,October,10,2025Q4,2025
+829,29-10-25,Fatima Ahmed,South,Managed Security Services,Enterprise,2,Won,25698.63,22319.97,25698.63,3378.66,115.14,October,10,2025Q4,2025
+830,30-10-25,Hamza Sheikh,South,Security Audit,SMB,5,Lost,27975.89,31171.47,0,-3195.58,89.75,October,10,2025Q4,2025
+831,30-10-25,Omar Farooq,South,Cloud Security,SMB,4,Lost,41669.29,49349.41,0,-7680.12,84.44,October,10,2025Q4,2025
+832,30-10-25,Ahmed Khan,North,Security Audit,Startup,3,Won,17141.19,16010.78,17141.19,1130.41,107.06,October,10,2025Q4,2025
+833,31-10-25,Hamza Sheikh,West,Security Audit,SMB,3,Won,20687.43,19926.83,20687.43,760.6,103.82,October,10,2025Q4,2025
+834,31-10-25,Fatima Ahmed,North,Managed Security Services,Enterprise,2,Lost,22297.57,20387.44,0,1910.13,109.37,October,10,2025Q4,2025
+835,31-10-25,Hamza Sheikh,East,Cloud Security,Enterprise,2,Won,18674.78,19644.52,18674.78,-969.74,95.06,October,10,2025Q4,2025
+836,01-11-25,Fatima Ahmed,North,Incident Response,SMB,1,Won,16938.03,15315.27,16938.03,1622.76,110.6,November,11,2025Q4,2025
+837,01-11-25,Fatima Ahmed,North,Managed Security Services,Startup,4,Won,41154.88,40112.34,41154.88,1042.54,102.6,November,11,2025Q4,2025
+838,01-11-25,Bilal Hussain,East,Managed Security Services,Enterprise,1,Won,12708.08,13902.06,12708.08,-1193.98,91.41,November,11,2025Q4,2025
+839,02-11-25,Ayesha Noor,East,Cloud Security,Enterprise,3,Won,32027.94,33502.53,32027.94,-1474.59,95.6,November,11,2025Q4,2025
+840,02-11-25,Hira Shah,East,Cloud Security,Startup,5,Lost,55045.68,54234.41,0,811.27,101.5,November,11,2025Q4,2025
+841,03-11-25,Bilal Hussain,North,Security Audit,Startup,5,Won,34269.95,34170.13,34269.95,99.82,100.29,November,11,2025Q4,2025
+842,03-11-25,Omar Farooq,North,Cloud Security,Startup,2,Won,22853.61,23921.76,22853.61,-1068.15,95.53,November,11,2025Q4,2025
+843,03-11-25,Bilal Hussain,East,Security Audit,SMB,5,Lost,26087.49,22227.92,0,3859.57,117.36,November,11,2025Q4,2025
+844,04-11-25,Usman Malik,West,Managed Security Services,Enterprise,5,Won,65793.11,57732.04,65793.11,8061.07,113.96,November,11,2025Q4,2025
+845,04-11-25,Usman Malik,West,Penetration Testing,SMB,5,Won,41755.72,48371.51,41755.72,-6615.79,86.32,November,11,2025Q4,2025
+846,04-11-25,Hira Shah,South,Incident Response,SMB,3,Won,46989.12,41221.56,46989.12,5767.56,113.99,November,11,2025Q4,2025
+847,05-11-25,Hamza Sheikh,East,Managed Security Services,Enterprise,5,Won,53310.3,58501.72,53310.3,-5191.42,91.13,November,11,2025Q4,2025
+848,05-11-25,Ayesha Noor,South,Cloud Security,SMB,5,Won,52252.81,61240.99,52252.81,-8988.18,85.32,November,11,2025Q4,2025
+849,05-11-25,Hira Shah,West,Incident Response,SMB,5,Won,85855.86,81111.4,85855.86,4744.46,105.85,November,11,2025Q4,2025
+850,06-11-25,Fatima Ahmed,South,Penetration Testing,Enterprise,1,Won,8988.36,8805.64,8988.36,182.72,102.08,November,11,2025Q4,2025
+851,06-11-25,Sara Ali,East,Penetration Testing,SMB,3,Won,23561.74,24719.15,23561.74,-1157.41,95.32,November,11,2025Q4,2025
+852,07-11-25,Ayesha Noor,East,Security Audit,SMB,2,Won,10343.81,11984.32,10343.81,-1640.51,86.31,November,11,2025Q4,2025
+853,07-11-25,Ayesha Noor,East,Incident Response,Startup,1,Lost,14380.32,16963.99,0,-2583.67,84.77,November,11,2025Q4,2025
+854,07-11-25,Fatima Ahmed,North,Security Audit,Enterprise,4,Won,26350.01,29218.13,26350.01,-2868.12,90.18,November,11,2025Q4,2025
+855,08-11-25,Fatima Ahmed,South,Managed Security Services,Enterprise,3,Won,38176.19,33607.15,38176.19,4569.04,113.6,November,11,2025Q4,2025
+856,08-11-25,Ahmed Khan,West,Incident Response,SMB,3,Won,44451.14,48194.1,44451.14,-3742.96,92.23,November,11,2025Q4,2025
+857,08-11-25,Hira Shah,West,Managed Security Services,Enterprise,4,Won,41593.46,41327.52,41593.46,265.94,100.64,November,11,2025Q4,2025
+858,09-11-25,Fatima Ahmed,West,Security Audit,SMB,4,Won,23473.64,23819.77,23473.64,-346.13,98.55,November,11,2025Q4,2025
+859,09-11-25,Usman Malik,North,Incident Response,SMB,4,Won,59442.45,51548.61,59442.45,7893.84,115.31,November,11,2025Q4,2025
+860,09-11-25,Omar Farooq,North,Security Audit,Enterprise,2,Won,13542.8,12417.01,13542.8,1125.79,109.07,November,11,2025Q4,2025
+861,10-11-25,Sara Ali,East,Incident Response,SMB,5,Won,78174.44,88077.56,78174.44,-9903.12,88.76,November,11,2025Q4,2025
+862,10-11-25,Hira Shah,West,Security Audit,SMB,3,Won,16982.93,17133.83,16982.93,-150.9,99.12,November,11,2025Q4,2025
+863,11-11-25,Mariam Khan,North,Penetration Testing,Enterprise,5,Won,40303.82,38513.6,40303.82,1790.22,104.65,November,11,2025Q4,2025
+864,11-11-25,Usman Malik,East,Security Audit,Startup,5,Won,26094.5,25687.6,26094.5,406.9,101.58,November,11,2025Q4,2025
+865,11-11-25,Hamza Sheikh,West,Penetration Testing,Startup,4,Won,36536.66,41982.08,36536.66,-5445.42,87.03,November,11,2025Q4,2025
+866,12-11-25,Fatima Ahmed,South,Security Audit,SMB,2,Won,11496.22,12785.52,11496.22,-1289.3,89.92,November,11,2025Q4,2025
+867,12-11-25,Mariam Khan,East,Incident Response,SMB,1,Won,14900.4,14085.5,14900.4,814.9,105.79,November,11,2025Q4,2025
+868,12-11-25,Fatima Ahmed,North,Incident Response,SMB,2,Won,28697.56,25573.13,28697.56,3124.43,112.22,November,11,2025Q4,2025
+869,13-11-25,Ayesha Noor,North,Incident Response,Startup,5,Won,79106.51,74217.68,79106.51,4888.83,106.59,November,11,2025Q4,2025
+870,13-11-25,Usman Malik,East,Cloud Security,SMB,2,Won,20973.39,24586.37,20973.39,-3612.98,85.3,November,11,2025Q4,2025
+871,13-11-25,Ayesha Noor,East,Managed Security Services,SMB,4,Won,51100.64,53837.39,51100.64,-2736.75,94.92,November,11,2025Q4,2025
+872,14-11-25,Ahmed Khan,North,Incident Response,Startup,1,Won,13956.64,14469.1,13956.64,-512.46,96.46,November,11,2025Q4,2025
+873,14-11-25,Ayesha Noor,South,Penetration Testing,Enterprise,4,Won,30230.42,32006.09,30230.42,-1775.67,94.45,November,11,2025Q4,2025
+874,15-11-25,Ahmed Khan,West,Incident Response,Startup,1,Won,13313.63,13022.19,13313.63,291.44,102.24,November,11,2025Q4,2025
+875,15-11-25,Ahmed Khan,South,Cloud Security,Enterprise,5,Won,52332.65,59266.07,52332.65,-6933.42,88.3,November,11,2025Q4,2025
+876,15-11-25,Mariam Khan,East,Penetration Testing,Enterprise,1,Lost,6895.51,7124.1,0,-228.59,96.79,November,11,2025Q4,2025
+877,16-11-25,Fatima Ahmed,South,Cloud Security,Enterprise,1,Lost,10293.05,9169.68,0,1123.37,112.25,November,11,2025Q4,2025
+878,16-11-25,Hamza Sheikh,North,Penetration Testing,Startup,1,Won,8887.27,7955.64,8887.27,931.63,111.71,November,11,2025Q4,2025
+879,16-11-25,Ayesha Noor,East,Security Audit,Startup,2,Won,13407,13915.13,13407,-508.13,96.35,November,11,2025Q4,2025
+880,17-11-25,Usman Malik,West,Managed Security Services,SMB,2,Won,23633.07,27835.02,23633.07,-4201.95,84.9,November,11,2025Q4,2025
+881,17-11-25,Ahmed Khan,North,Managed Security Services,SMB,5,Won,59267.47,56773.69,59267.47,2493.78,104.39,November,11,2025Q4,2025
+882,18-11-25,Fatima Ahmed,North,Cloud Security,SMB,1,Won,8730.91,10078.43,8730.91,-1347.52,86.63,November,11,2025Q4,2025
+883,18-11-25,Sara Ali,West,Managed Security Services,Startup,3,Won,37844.26,42288.44,37844.26,-4444.18,89.49,November,11,2025Q4,2025
+884,18-11-25,Hira Shah,West,Cloud Security,SMB,5,Lost,54818.89,51350.74,0,3468.15,106.75,November,11,2025Q4,2025
+885,19-11-25,Mariam Khan,South,Cloud Security,Enterprise,1,Won,9233.97,7966.32,9233.97,1267.65,115.91,November,11,2025Q4,2025
+886,19-11-25,Hamza Sheikh,East,Cloud Security,Enterprise,1,Won,9763.9,8647.36,9763.9,1116.54,112.91,November,11,2025Q4,2025
+887,19-11-25,Bilal Hussain,West,Managed Security Services,SMB,2,Won,26439.64,29215.09,26439.64,-2775.45,90.5,November,11,2025Q4,2025
+888,20-11-25,Mariam Khan,West,Cloud Security,SMB,5,Won,55656.81,51197.83,55656.81,4458.98,108.71,November,11,2025Q4,2025
+889,20-11-25,Sara Ali,East,Managed Security Services,Enterprise,1,Won,11075.45,10853.33,11075.45,222.12,102.05,November,11,2025Q4,2025
+890,20-11-25,Hira Shah,West,Cloud Security,Enterprise,1,Won,10151.71,10411.54,10151.71,-259.83,97.5,November,11,2025Q4,2025
+891,21-11-25,Sara Ali,West,Incident Response,Startup,5,Won,68081.1,75155.67,68081.1,-7074.57,90.59,November,11,2025Q4,2025
+892,21-11-25,Ayesha Noor,South,Cloud Security,Enterprise,3,Won,26416.91,23501.3,26416.91,2915.61,112.41,November,11,2025Q4,2025
+893,22-11-25,Ahmed Khan,North,Penetration Testing,SMB,5,Won,44933.45,44584.24,44933.45,349.21,100.78,November,11,2025Q4,2025
+894,22-11-25,Hamza Sheikh,North,Cloud Security,Startup,5,Lost,54807.61,55891.46,0,-1083.85,98.06,November,11,2025Q4,2025
+895,22-11-25,Omar Farooq,North,Security Audit,SMB,3,Won,19404.19,20166.57,19404.19,-762.38,96.22,November,11,2025Q4,2025
+896,23-11-25,Ahmed Khan,North,Cloud Security,Enterprise,5,Won,43231.49,49129.4,43231.49,-5897.91,88,November,11,2025Q4,2025
+897,23-11-25,Omar Farooq,West,Penetration Testing,SMB,1,Lost,8824.95,8031.48,0,793.47,109.88,November,11,2025Q4,2025
+898,23-11-25,Hira Shah,East,Penetration Testing,Startup,5,Won,39256.53,44467.48,39256.53,-5210.95,88.28,November,11,2025Q4,2025
+899,24-11-25,Fatima Ahmed,East,Managed Security Services,SMB,3,Won,34297.87,37470.68,34297.87,-3172.81,91.53,November,11,2025Q4,2025
+900,24-11-25,Bilal Hussain,South,Incident Response,Startup,4,Won,60836.57,63547.13,60836.57,-2710.56,95.73,November,11,2025Q4,2025
+901,24-11-25,Usman Malik,South,Cloud Security,Enterprise,5,Won,43870.3,48030.73,43870.3,-4160.43,91.34,November,11,2025Q4,2025
+902,25-11-25,Ahmed Khan,West,Managed Security Services,SMB,2,Won,25847.86,25698.1,25847.86,149.76,100.58,November,11,2025Q4,2025
+903,25-11-25,Hamza Sheikh,East,Incident Response,SMB,1,Lost,15370.96,13809.87,0,1561.09,111.3,November,11,2025Q4,2025
+904,26-11-25,Sara Ali,East,Cloud Security,Startup,1,Won,9059.77,9811.89,9059.77,-752.12,92.33,November,11,2025Q4,2025
+905,26-11-25,Hamza Sheikh,North,Security Audit,Enterprise,2,Lost,10877.64,11243.51,0,-365.87,96.75,November,11,2025Q4,2025
+906,26-11-25,Hira Shah,West,Cloud Security,Startup,2,Won,18105.49,19441.33,18105.49,-1335.84,93.13,November,11,2025Q4,2025
+907,27-11-25,Omar Farooq,West,Penetration Testing,SMB,5,Won,34684.03,33584.53,34684.03,1099.5,103.27,November,11,2025Q4,2025
+908,27-11-25,Sara Ali,North,Penetration Testing,Enterprise,2,Won,16421.43,19170.43,16421.43,-2749,85.66,November,11,2025Q4,2025
+909,27-11-25,Usman Malik,West,Security Audit,Enterprise,4,Won,26450.51,27920.61,26450.51,-1470.1,94.73,November,11,2025Q4,2025
+910,28-11-25,Usman Malik,West,Managed Security Services,Startup,3,Lost,30788.98,27090.94,0,3698.04,113.65,November,11,2025Q4,2025
+911,28-11-25,Ahmed Khan,South,Incident Response,Enterprise,2,Won,25941.04,26133.82,25941.04,-192.78,99.26,November,11,2025Q4,2025
+912,28-11-25,Hira Shah,East,Cloud Security,Enterprise,2,Won,20436.62,22781.2,20436.62,-2344.58,89.71,November,11,2025Q4,2025
+913,29-11-25,Fatima Ahmed,West,Penetration Testing,Enterprise,4,Won,35067.16,39553.9,35067.16,-4486.74,88.66,November,11,2025Q4,2025
+914,29-11-25,Hira Shah,South,Managed Security Services,Startup,1,Won,11376.26,11639.15,11376.26,-262.89,97.74,November,11,2025Q4,2025
+915,30-11-25,Omar Farooq,East,Security Audit,SMB,1,Won,5729.31,6664.11,5729.31,-934.8,85.97,November,11,2025Q4,2025
+916,30-11-25,Hamza Sheikh,North,Penetration Testing,SMB,5,Won,41156.16,38838.41,41156.16,2317.75,105.97,November,11,2025Q4,2025
+917,30-11-25,Usman Malik,South,Security Audit,Enterprise,4,Won,22374.33,22233.59,22374.33,140.74,100.63,November,11,2025Q4,2025
+918,01-12-25,Hamza Sheikh,South,Cloud Security,SMB,3,Won,25739.48,29973.85,25739.48,-4234.37,85.87,December,12,2025Q4,2025
+919,01-12-25,Hamza Sheikh,East,Incident Response,SMB,3,Lost,48175.58,56061.43,0,-7885.85,85.93,December,12,2025Q4,2025
+920,01-12-25,Hamza Sheikh,North,Penetration Testing,Startup,4,Won,33206.24,36194.78,33206.24,-2988.54,91.74,December,12,2025Q4,2025
+921,02-12-25,Usman Malik,South,Penetration Testing,Startup,3,Won,24581.44,28284.47,24581.44,-3703.03,86.91,December,12,2025Q4,2025
+922,02-12-25,Mariam Khan,West,Cloud Security,Enterprise,1,Won,10725.05,9449.53,10725.05,1275.52,113.5,December,12,2025Q4,2025
+923,02-12-25,Ayesha Noor,West,Managed Security Services,SMB,3,Lost,37892.49,43680.5,0,-5788.01,86.75,December,12,2025Q4,2025
+924,03-12-25,Omar Farooq,West,Incident Response,Enterprise,3,Won,41029.41,39479.19,41029.41,1550.22,103.93,December,12,2025Q4,2025
+925,03-12-25,Mariam Khan,North,Penetration Testing,SMB,4,Won,30583.82,27905.17,30583.82,2678.65,109.6,December,12,2025Q4,2025
+926,04-12-25,Omar Farooq,South,Incident Response,Enterprise,4,Won,53269.98,49742.41,53269.98,3527.57,107.09,December,12,2025Q4,2025
+927,04-12-25,Sara Ali,West,Penetration Testing,Enterprise,3,Won,21334.97,21255.8,21334.97,79.17,100.37,December,12,2025Q4,2025
+928,04-12-25,Hira Shah,North,Incident Response,Enterprise,2,Lost,31585.76,29624.83,0,1960.93,106.62,December,12,2025Q4,2025
+929,05-12-25,Hira Shah,West,Security Audit,SMB,4,Won,26581.92,25577.09,26581.92,1004.83,103.93,December,12,2025Q4,2025
+930,05-12-25,Bilal Hussain,East,Penetration Testing,Enterprise,5,Won,45552.79,40871.9,45552.79,4680.89,111.45,December,12,2025Q4,2025
+931,05-12-25,Hira Shah,South,Incident Response,SMB,5,Won,77887.81,74278.63,77887.81,3609.18,104.86,December,12,2025Q4,2025
+932,06-12-25,Usman Malik,South,Managed Security Services,SMB,1,Won,10862.76,11409.15,10862.76,-546.39,95.21,December,12,2025Q4,2025
+933,06-12-25,Fatima Ahmed,North,Security Audit,Enterprise,3,Lost,15870.51,15944.29,0,-73.78,99.54,December,12,2025Q4,2025
+934,06-12-25,Ahmed Khan,North,Security Audit,SMB,2,Lost,13126.26,12750.21,0,376.05,102.95,December,12,2025Q4,2025
+935,07-12-25,Bilal Hussain,South,Managed Security Services,Enterprise,1,Won,12283.52,13650.16,12283.52,-1366.64,89.99,December,12,2025Q4,2025
+936,07-12-25,Ahmed Khan,West,Incident Response,SMB,3,Won,46596.85,54179.49,46596.85,-7582.64,86,December,12,2025Q4,2025
+937,08-12-25,Omar Farooq,West,Cloud Security,SMB,4,Won,43377.55,48360.6,43377.55,-4983.05,89.7,December,12,2025Q4,2025
+938,08-12-25,Ahmed Khan,East,Managed Security Services,Enterprise,5,Won,63658.99,61507.33,63658.99,2151.66,103.5,December,12,2025Q4,2025
+939,08-12-25,Ahmed Khan,West,Incident Response,Enterprise,2,Won,33010.12,36659.55,33010.12,-3649.43,90.05,December,12,2025Q4,2025
+940,09-12-25,Bilal Hussain,North,Managed Security Services,Enterprise,5,Won,52011.85,46976.74,52011.85,5035.11,110.72,December,12,2025Q4,2025
+941,09-12-25,Sara Ali,North,Managed Security Services,Startup,4,Won,51564.3,46181.57,51564.3,5382.73,111.66,December,12,2025Q4,2025
+942,09-12-25,Hamza Sheikh,West,Penetration Testing,SMB,3,Won,26526.14,25756.07,26526.14,770.07,102.99,December,12,2025Q4,2025
+943,10-12-25,Hira Shah,North,Incident Response,SMB,4,Won,56150.43,63601.36,56150.43,-7450.93,88.28,December,12,2025Q4,2025
+944,10-12-25,Hira Shah,South,Cloud Security,SMB,4,Won,41685.37,39026.76,41685.37,2658.61,106.81,December,12,2025Q4,2025
+945,10-12-25,Usman Malik,South,Penetration Testing,Enterprise,5,Lost,37769.94,32940.63,0,4829.31,114.66,December,12,2025Q4,2025
+946,11-12-25,Bilal Hussain,West,Managed Security Services,SMB,2,Won,27297.39,24461.15,27297.39,2836.24,111.59,December,12,2025Q4,2025
+947,11-12-25,Usman Malik,South,Managed Security Services,SMB,4,Won,41281.3,47496.64,41281.3,-6215.34,86.91,December,12,2025Q4,2025
+948,12-12-25,Fatima Ahmed,South,Managed Security Services,Enterprise,5,Lost,61436.27,65848.88,0,-4412.61,93.3,December,12,2025Q4,2025
+949,12-12-25,Fatima Ahmed,East,Incident Response,Enterprise,2,Won,26998.53,25341.37,26998.53,1657.16,106.54,December,12,2025Q4,2025
+950,12-12-25,Usman Malik,East,Incident Response,Enterprise,3,Won,47864.97,49987.95,47864.97,-2122.98,95.75,December,12,2025Q4,2025
+951,13-12-25,Bilal Hussain,South,Penetration Testing,SMB,3,Lost,21666.41,22417.21,0,-750.8,96.65,December,12,2025Q4,2025
+952,13-12-25,Usman Malik,West,Cloud Security,Startup,1,Won,9206.15,9937.14,9206.15,-730.99,92.64,December,12,2025Q4,2025
+953,13-12-25,Hira Shah,East,Penetration Testing,Enterprise,5,Won,39932.45,37201.7,39932.45,2730.75,107.34,December,12,2025Q4,2025
+954,14-12-25,Mariam Khan,North,Security Audit,SMB,2,Won,13493.41,15551.71,13493.41,-2058.3,86.76,December,12,2025Q4,2025
+955,14-12-25,Ayesha Noor,North,Managed Security Services,Enterprise,4,Won,43848.69,42019.28,43848.69,1829.41,104.35,December,12,2025Q4,2025
+956,14-12-25,Ahmed Khan,North,Managed Security Services,Startup,3,Lost,32157.79,35146.73,0,-2988.94,91.5,December,12,2025Q4,2025
+957,15-12-25,Ayesha Noor,West,Managed Security Services,Enterprise,2,Won,25864.63,22130.91,25864.63,3733.72,116.87,December,12,2025Q4,2025
+958,15-12-25,Bilal Hussain,South,Penetration Testing,SMB,5,Won,40007.43,39224.48,40007.43,782.95,102,December,12,2025Q4,2025
+959,16-12-25,Ayesha Noor,North,Penetration Testing,SMB,1,Lost,8988.28,8746.48,0,241.8,102.76,December,12,2025Q4,2025
+960,16-12-25,Fatima Ahmed,West,Managed Security Services,SMB,3,Lost,32183.44,33477.84,0,-1294.4,96.13,December,12,2025Q4,2025
+961,16-12-25,Omar Farooq,East,Penetration Testing,SMB,2,Won,16700.45,14620.54,16700.45,2079.91,114.23,December,12,2025Q4,2025
+962,17-12-25,Ahmed Khan,South,Incident Response,Enterprise,2,Won,27595.91,31088.06,27595.91,-3492.15,88.77,December,12,2025Q4,2025
+963,17-12-25,Hamza Sheikh,East,Incident Response,Enterprise,2,Won,26910.84,24925.45,26910.84,1985.39,107.97,December,12,2025Q4,2025
+964,17-12-25,Bilal Hussain,West,Penetration Testing,Enterprise,5,Won,42201.15,45871.1,42201.15,-3669.95,92,December,12,2025Q4,2025
+965,18-12-25,Ahmed Khan,North,Managed Security Services,Enterprise,5,Lost,61686.32,69774.89,0,-8088.57,88.41,December,12,2025Q4,2025
+966,18-12-25,Ayesha Noor,North,Penetration Testing,SMB,5,Won,43057.93,45066.88,43057.93,-2008.95,95.54,December,12,2025Q4,2025
+967,18-12-25,Fatima Ahmed,West,Penetration Testing,Enterprise,4,Lost,30170.84,33468.79,0,-3297.95,90.15,December,12,2025Q4,2025
+968,19-12-25,Sara Ali,North,Penetration Testing,Enterprise,2,Won,15750.26,17036.29,15750.26,-1286.03,92.45,December,12,2025Q4,2025
+969,19-12-25,Mariam Khan,South,Security Audit,SMB,3,Lost,17489.55,17042.44,0,447.11,102.62,December,12,2025Q4,2025
+970,20-12-25,Hamza Sheikh,West,Incident Response,Startup,5,Lost,85892.01,97324.28,0,-11432.27,88.25,December,12,2025Q4,2025
+971,20-12-25,Mariam Khan,East,Cloud Security,SMB,5,Lost,46883.73,44687.02,0,2196.71,104.92,December,12,2025Q4,2025
+972,20-12-25,Ahmed Khan,West,Cloud Security,Enterprise,2,Won,18768.9,19705.93,18768.9,-937.03,95.24,December,12,2025Q4,2025
+973,21-12-25,Fatima Ahmed,South,Security Audit,Enterprise,5,Lost,28690.93,31872.44,0,-3181.51,90.02,December,12,2025Q4,2025
+974,21-12-25,Fatima Ahmed,South,Penetration Testing,Startup,4,Won,32620.1,32053.64,32620.1,566.46,101.77,December,12,2025Q4,2025
+975,21-12-25,Ayesha Noor,West,Security Audit,Enterprise,4,Won,22216.72,21238.49,22216.72,978.23,104.61,December,12,2025Q4,2025
+976,22-12-25,Hira Shah,West,Security Audit,Enterprise,5,Won,33737.61,34101,33737.61,-363.39,98.93,December,12,2025Q4,2025
+977,22-12-25,Ayesha Noor,North,Managed Security Services,SMB,2,Won,22312.94,25353.91,22312.94,-3040.97,88.01,December,12,2025Q4,2025
+978,22-12-25,Hira Shah,South,Incident Response,SMB,2,Won,33562.34,39451.61,33562.34,-5889.27,85.07,December,12,2025Q4,2025
+979,23-12-25,Hira Shah,West,Cloud Security,SMB,2,Won,17620.85,18339.41,17620.85,-718.56,96.08,December,12,2025Q4,2025
+980,23-12-25,Hamza Sheikh,West,Penetration Testing,Enterprise,1,Won,8375.75,9058.48,8375.75,-682.73,92.46,December,12,2025Q4,2025
+981,24-12-25,Ayesha Noor,South,Cloud Security,Enterprise,5,Won,56104.78,65426.35,56104.78,-9321.57,85.75,December,12,2025Q4,2025
+982,24-12-25,Sara Ali,West,Cloud Security,Startup,2,Lost,18012.5,15931.9,0,2080.6,113.06,December,12,2025Q4,2025
+983,24-12-25,Usman Malik,North,Incident Response,Enterprise,4,Won,68429.89,63723.8,68429.89,4706.09,107.39,December,12,2025Q4,2025
+984,25-12-25,Usman Malik,South,Cloud Security,SMB,3,Won,29575.95,32477.79,29575.95,-2901.84,91.07,December,12,2025Q4,2025
+985,25-12-25,Ayesha Noor,North,Cloud Security,SMB,3,Won,34011.44,38715.58,34011.44,-4704.14,87.85,December,12,2025Q4,2025
+986,25-12-25,Ayesha Noor,North,Security Audit,SMB,2,Lost,12636.55,14531.53,0,-1894.98,86.96,December,12,2025Q4,2025
+987,26-12-25,Mariam Khan,North,Incident Response,Enterprise,3,Lost,42321.42,42121.98,0,199.44,100.47,December,12,2025Q4,2025
+988,26-12-25,Hamza Sheikh,North,Managed Security Services,Enterprise,3,Won,32633.67,28759.04,32633.67,3874.63,113.47,December,12,2025Q4,2025
+989,26-12-25,Ayesha Noor,South,Penetration Testing,SMB,1,Won,7528.96,7553.23,7528.96,-24.27,99.68,December,12,2025Q4,2025
+990,27-12-25,Mariam Khan,North,Cloud Security,Startup,4,Won,35116.21,32684.66,35116.21,2431.55,107.44,December,12,2025Q4,2025
+991,27-12-25,Hira Shah,North,Penetration Testing,Startup,4,Lost,28581.13,27206.91,0,1374.22,105.05,December,12,2025Q4,2025
+992,28-12-25,Fatima Ahmed,West,Managed Security Services,Enterprise,1,Won,10576.78,11849.1,10576.78,-1272.32,89.26,December,12,2025Q4,2025
+993,28-12-25,Fatima Ahmed,South,Penetration Testing,Enterprise,1,Lost,7815.06,6849.39,0,965.67,114.1,December,12,2025Q4,2025
+994,28-12-25,Hira Shah,South,Managed Security Services,Startup,3,Won,39192.25,44665.58,39192.25,-5473.33,87.75,December,12,2025Q4,2025
+995,29-12-25,Bilal Hussain,East,Security Audit,SMB,5,Won,26772.45,26763.99,26772.45,8.46,100.03,December,12,2025Q4,2025
+996,29-12-25,Mariam Khan,South,Cloud Security,Startup,3,Won,26672.88,28236.51,26672.88,-1563.63,94.46,December,12,2025Q4,2025
+997,29-12-25,Mariam Khan,South,Managed Security Services,Enterprise,1,Won,12516.34,11031.63,12516.34,1484.71,113.46,December,12,2025Q4,2025
+998,30-12-25,Hira Shah,East,Penetration Testing,SMB,4,Won,29092.96,28164.19,29092.96,928.77,103.3,December,12,2025Q4,2025
+999,30-12-25,Sara Ali,South,Cloud Security,SMB,3,Won,26378.49,23249.88,26378.49,3128.61,113.46,December,12,2025Q4,2025
+1000,31-12-25,Omar Farooq,South,Security Audit,SMB,5,Won,27001.64,32038.53,27001.64,-5036.89,84.28,December,12,2025Q4,2025
