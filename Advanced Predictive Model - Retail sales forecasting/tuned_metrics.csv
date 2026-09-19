@@ -1,0 +1,2 @@
+Model,Best Params,MAE,RMSE,R2
+Ridge Regression (tuned),{'alpha': 200.0},68.61575262248279,87.60393674417502,0.3440825599640148
